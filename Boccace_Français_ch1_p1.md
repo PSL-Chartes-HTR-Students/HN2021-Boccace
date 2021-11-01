@@ -1,3 +1,18 @@
+Qui a este premieremèt dieu appel
+le enuers lesgentilz ⁊payens
+E qui dois la grandeur aux
+nauires non acoustumee en
+trt ⁊nouveau chemin tenir
+ay propose le plus prudent
+ment que pourray / De loing Regarder
+des quelz haure ⁊rivage ie pourray mỏ
+nauire desancrer. Afin que plus droite
+ment par la faueur du bon uent ie puis
+se estre porte ou moncourage desire Le
+que ie perse facilemént faire mais qiaye
+unefois trouve celuy q les anciens ont
+pmierement sainct estre dieu.Affin qie
+ai
 prengne par luy le cominencement de
 la genealogie. Et que puisse par ordre
 conuenable en la posterite ⁊ lignee pre
@@ -53,3 +68,46 @@ maniere dung monstre ayant trop pl9
 de testes que cerbere. Des quels dieux
 ainsi que ien enqueroye ung hõme tres
 ancien thales milesien uint au deuant
+de moy le plus sage de son temps ⁊ tres
+familier des cieux ⁊ choses celestes le/
+quel se auoie ouy dire iapieca auoir du
+uray dieu plus parengin q par foy èqs
+qui me dit incontinent apres ce que ie
+leureauis me dire lequel des dieux il
+croioit estre le ṕmier quil luy sembloit
+que leau auoit este la premiere cause de
+toutes choses. Et quelle auoit en foy
+la pensee diuine toutes choses pduisan
+te. Et que non autrement ains tout aí
+si que ladicte eau rend humides ⁊ moi"
+tes les arbres. Pareillement de labime
+elle sourd ⁊ enuoye les ebulicids ⁊ four
+ses uers le cieliusques aux etoilles: ⁊
+de la main moite elle forge lautre orne
+ment du ciel:
+e trouve apres anaximene hom
+me tres erudit ⁊ lettre. Lequel aṕe
+ce que ie luy ay eu demande ce q atha"
+les dessusdit demãde auoie il me cespõ"
+dit que lair estoit pducteur de ꝓducteur de toutes
+chosespource q toutes uesteslair ꝑdu
+meurent incontinent ⁊ sans lui ne peu
+ent estre procrees. Aps uint crisippe en
+tre les anciens hõmes fameux ⁊ renõ"
+me qui me dit que'il croyoit le feu estre
+de toutes choses le conditeur ⁊ createur
+pource que sans chaleur / il ne appert
+point aucune chose mortelle pouvoir e"
+stre engendree ne icelle engendree sans
+chaleur pouvoir consister ne durer.
+Quant ie me fus transporte a alci"
+nous ctononiensien pour icelluy inter"
+roguer ie le trouuay hóe de pl⁹ hault en
+tẻdemẻt q les autres car il passa ⁊ trãs
+uola les elements ⁊ dit lui sembloit le
+soleil la lune ⁊ auŧs estoilles ⁊gñaleṁt
+tout le ciel auoir des autres choses este
+fcabricateurs ⁊ aucteurs O hõme libe
+ral qui donne a tous les corps superce"
+lestes la deite que tous les autres fore
+
