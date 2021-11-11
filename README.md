@@ -18,6 +18,8 @@ https://github.com/HTR-United/cremma-medieval/blob/main/table.csv#L156 We chose 
 
 +++++++
 
+Choices of transcription were made. They're all summed up in a document available in the repository. It goes by the name "Transcription_norms". 
+
 How do we ensure our quality of data (continuous integration workflow via Github Actions)
 
 We can add bibliography here instead of a separate odt file.
