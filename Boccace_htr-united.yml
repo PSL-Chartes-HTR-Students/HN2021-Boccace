@@ -1,0 +1,53 @@
+schema: "https://htr-united.github.io/schema/2021-10-15/schema.json"
+title: git-project-Boccace
+url: 'https://github.com/HN-2021-Boccacius/git-project-Boccace'
+project-name: >
+    Malamatenia Vlachou Efstathiou'
+
+authors:
+    - name: 'Vlachou Efstathiou'
+      surname: 'Malamatenia'
+      roles:
+      - 'transcriber'
+      - 'project-manager'
+      - 'quality-control'
+      - 'digitization'
+    - name: 'Léroy'
+      surname: 'Noé'
+      roles:
+      - 'transcriber'
+      - 'project-manager'
+      - 'quality-control'
+      - 'digitization'
+    - name: 'Maulu'
+      surname: 'Marco'
+      roles:
+      - 'support'
+description: >
+  This repository hosts all the documents, including transcriptions, bibliographical references and introduction that serve the team Boccace for the validation of the course "Bonnes pratiques du developpement collaboratif : initiation à Git" (prof. Thibault Clérice), of the first semester - Master Humanités Numériques ENC-PSL 2021-2022.
+language:
+  - frm
+  - lat
+script: 
+  - Latn
+script-type: 'only-typed'
+time: 
+  notBefore: "1472"
+  notAfter: "1498"
+hands: 
+  count: '1-per-file'
+  precision: 'exact'
+license:
+  - {name: 'CC-BY 4.0', url: 'https://creativecommons.org/licenses/by/4.0/'}
+format: 'Page-XML'
+volume:
+  - metric: 'pages'
+    count: 1072
+sources:
+  - reference: 'Laurent Premierfait,Boccace (1498), "De la genealogie des dieux",  Paris ,A. Vérard.'
+    link: 'https://gallica.bnf.fr/ark:/12148/bpt6k105063r?rk=21459;2 '
+  - reference: 'Boccace, 1472, De genealogia deorum gentilium, editio princeps, Vindeline de Spire,Venezia.'
+    link: 'https://mazarinum.bibliotheque-mazarine.fr/records/item/1781-genealogia-deorum'
+
+transcription-guidelines: >
+    No resolution of abbreviations. Special characters are used for the graphemic transcription, compatible with the Unicode mufi.  No correction of orthography errors, BUT proper transcription of inversed letters (Inc59) such as n printed as u in several cases. Spaces were added freely for word separation according to dictionaries of middle French and Latin (latin forms verified on Collatinus). For more documentation regarding the transcription norms and guidelines head to the repository and the report file.'
