@@ -1,4 +1,4 @@
-Bibliographical references
+Brief bibliographical references
 
 Primary sources
 
@@ -33,7 +33,8 @@ WILKINS, Ernest Hatch (1927), _The Trees of the ‘Genealogia Deorum’of Boccac
 - (1919), « The geneaology of the editions of the ‘Genealogia deorum’ » in _Modern Philology_ 17, 65-78.
 
 
-Methodology 
+Methodology tools 
+
 CAPELLI, Adriano (1982), _The elements of abbreviation in medieval Latin paleography _,tr. by David Heimann and Richard Kay. Lawrence, Kansas : University of Kansas Libraries https://kuscholarworks.ku.edu/bitstream/handle/1808/1821/47cappelli.pdf.
 
 Collatinus 11.2,web Version web du lemmatiseur et analyseur morphologique de textes latins, https://outils.biblissima.fr/fr/collatinus-web/.

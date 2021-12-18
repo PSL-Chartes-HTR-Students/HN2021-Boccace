@@ -1,0 +1,1528 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>18_228d0_default.jpg</fileName>
+      <fileIdentifier>https://mazarinum.bibliotheque-mazarine.fr/i/?IIIF=/af/0a/c2/41/af0ac241-0f82-4dc2-a6df-bb95b17c4e73/iiif/751063002_inc59_0019.tif/full/full/0/default.jpg</fileIdentifier>
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT3" LABEL="Commentary" DESCRIPTION="block type Commentary"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT1467" LABEL="Page" DESCRIPTION="block type Page"/>
+    <OtherTag ID="LT1" LABEL="Main" DESCRIPTION="line type Main"/><OtherTag ID="LT2" LABEL="Numbering" DESCRIPTION="line type Numbering"/><OtherTag ID="LT3" LABEL="Correction" DESCRIPTION="line type Correction"/><OtherTag ID="LT4" LABEL="Signature" DESCRIPTION="line type Signature"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="3731"
+          HEIGHT="5000"
+          PHYSICAL_IMG_NR="10"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="3731"
+                  HEIGHT="5000">
+        
+        <TextBlock HPOS="483"
+                   VPOS="433"
+                   WIDTH="1080"
+                   HEIGHT="3296"
+                   ID="eSc_textblock_29a52dc8"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="1163 433 1333 533 1563 550 1562 645 863 645 863 700 1561 700 1559 799 1065 799 1065 871 1558 871 1556 974 851 974 851 1033 1556 1033 1546 1662 1413 1700 1546 1783 1563 2062 1479 2116 1546 2216 1546 2729 1413 2800 1529 2866 1546 2979 1346 3066 1417 3200 1546 3250 1529 3329 1363 3433 1363 3529 1529 3566 1529 3662 862 3729 483 3695 483 450 533 433"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_f6e6753f"
+                    
+                    BASELINE="498 524 1254 512" 
+                    HPOS="491"
+                    VPOS="433"
+                    WIDTH="759"
+                    HEIGHT="117">
+            <Shape><Polygon POINTS="496 520 491 433 1196 433 1250 508 1242 550 491 545"/></Shape>
+	    <String CONTENT="De lygo phaetonis filio."
+                    HPOS="491"
+                    VPOS="433"
+                    WIDTH="759"
+                    HEIGHT="117"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d9813924"
+                    
+                    BASELINE="492 608 1538 600" 
+                    HPOS="487"
+                    VPOS="525"
+                    WIDTH="1047"
+                    HEIGHT="108">
+            <Shape><Polygon POINTS="491 604 487 525 1525 529 1534 600 1529 629 491 633"/></Shape>
+	    <String CONTENT="De phetusa lampetusa &amp; iapetia fi&#39;"
+                    HPOS="487"
+                    VPOS="525"
+                    WIDTH="1047"
+                    HEIGHT="108"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2ecea51a"
+                    
+                    BASELINE="491 687 862 687" 
+                    HPOS="491"
+                    VPOS="626"
+                    WIDTH="371"
+                    HEIGHT="86">
+            <Shape><Polygon POINTS="491 687 491 626 862 626 862 687 862 712 491 712"/></Shape>
+	    <String CONTENT="liabus solis."
+                    HPOS="491"
+                    VPOS="626"
+                    WIDTH="371"
+                    HEIGHT="86"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_47c4d51b"
+                    
+                    BASELINE="496 770 1525 783" 
+                    HPOS="487"
+                    VPOS="675"
+                    WIDTH="1038"
+                    HEIGHT="137">
+            <Shape><Polygon POINTS="496 770 496 675 1521 700 1525 783 1517 812 487 787"/></Shape>
+	    <String CONTENT="De alpheo fluuio oceani filio.xv.ꝗ"
+                    HPOS="487"
+                    VPOS="675"
+                    WIDTH="1038"
+                    HEIGHT="137"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_39635c25"
+                    
+                    BASELINE="491 858 1038 850" 
+                    HPOS="483"
+                    VPOS="775"
+                    WIDTH="555"
+                    HEIGHT="112">
+            <Shape><Polygon POINTS="491 858 483 787 1025 775 1038 850 1033 879 491 887"/></Shape>
+	    <String CONTENT="genuit orsilocum."
+                    HPOS="483"
+                    VPOS="775"
+                    WIDTH="555"
+                    HEIGHT="112"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_61a9bab0"
+                    
+                    BASELINE="496 933 1542 941" 
+                    HPOS="487"
+                    VPOS="858"
+                    WIDTH="1055"
+                    HEIGHT="112">
+            <Shape><Polygon POINTS="496 933 496 858 1542 858 1542 941 1534 970 487 962"/></Shape>
+	    <String CONTENT="De orsiloco filio alphei: qui genuit"
+                    HPOS="487"
+                    VPOS="858"
+                    WIDTH="1055"
+                    HEIGHT="112"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_648a25c7"
+                    
+                    BASELINE="491 1016 833 1025" 
+                    HPOS="483"
+                    VPOS="933"
+                    WIDTH="350"
+                    HEIGHT="117">
+            <Shape><Polygon POINTS="491 1016 487 950 658 933 658 933 662 933 662 933 829 958 833 1025 825 1050 483 1033"/></Shape>
+	    <String CONTENT="dyocleum."
+                    HPOS="483"
+                    VPOS="933"
+                    WIDTH="350"
+                    HEIGHT="117"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8337d7ae"
+                    
+                    BASELINE="496 1100 1542 1112" 
+                    HPOS="487"
+                    VPOS="1020"
+                    WIDTH="1055"
+                    HEIGHT="121">
+            <Shape><Polygon POINTS="496 1100 496 1020 1538 1020 1542 1112 1534 1141 487 1120"/></Shape>
+	    <String CONTENT="De dyocleo filio orsiloci:qui genuit"
+                    HPOS="487"
+                    VPOS="1020"
+                    WIDTH="1055"
+                    HEIGHT="121"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_31589d06"
+                    
+                    BASELINE="496 1191 1217 1191" 
+                    HPOS="491"
+                    VPOS="1116"
+                    WIDTH="726"
+                    HEIGHT="100">
+            <Shape><Polygon POINTS="496 1191 496 1116 1217 1116 1217 1191 1213 1216 491 1212"/></Shape>
+	    <String CONTENT="crytonem &amp; orsilocum."
+                    HPOS="491"
+                    VPOS="1116"
+                    WIDTH="726"
+                    HEIGHT="100"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_85910178"
+                    
+                    BASELINE="496 1266 1534 1279" 
+                    HPOS="487"
+                    VPOS="1187"
+                    WIDTH="1047"
+                    HEIGHT="113">
+            <Shape><Polygon POINTS="496 1266 496 1187 1529 1200 1534 1279 1525 1300 487 1287"/></Shape>
+	    <String CONTENT="De clytone &amp; orsiloco filiis dyoclei."
+                    HPOS="487"
+                    VPOS="1187"
+                    WIDTH="1047"
+                    HEIGHT="113"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9fedccf9"
+                    
+                    BASELINE="491 1354 1534 1362" 
+                    HPOS="487"
+                    VPOS="1270"
+                    WIDTH="1047"
+                    HEIGHT="117">
+            <Shape><Polygon POINTS="491 1354 487 1275 1525 1270 1534 1362 1529 1383 487 1387"/></Shape>
+	    <String CONTENT="De crinisio fluuio.xvi.oceani filio:"
+                    HPOS="487"
+                    VPOS="1270"
+                    WIDTH="1047"
+                    HEIGHT="117"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c3ffee70"
+                    
+                    BASELINE="496 1437 1092 1445" 
+                    HPOS="487"
+                    VPOS="1362"
+                    WIDTH="605"
+                    HEIGHT="100">
+            <Shape><Polygon POINTS="496 1437 496 1362 1088 1370 1092 1445 1083 1462 487 1454"/></Shape>
+	    <String CONTENT="qui genuit acestem."
+                    HPOS="487"
+                    VPOS="1362"
+                    WIDTH="605"
+                    HEIGHT="100"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7351777a"
+                    
+                    BASELINE="496 1529 1442 1520" 
+                    HPOS="487"
+                    VPOS="1445"
+                    WIDTH="955"
+                    HEIGHT="109">
+            <Shape><Polygon POINTS="496 1529 487 1450 1429 1445 1442 1520 1438 1554 496 1554"/></Shape>
+	    <String CONTENT="De aceste filio crinisii fluminis."
+                    HPOS="487"
+                    VPOS="1445"
+                    WIDTH="955"
+                    HEIGHT="109"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e045cd0c"
+                    
+                    BASELINE="491 1608 1534 1616" 
+                    HPOS="483"
+                    VPOS="1512"
+                    WIDTH="1051"
+                    HEIGHT="125">
+            <Shape><Polygon POINTS="491 1608 491 1512 1529 1520 1534 1616 1525 1637 483 1629"/></Shape>
+	    <String CONTENT="De thyberi fl. filio oceani.xvii.qui"
+                    HPOS="483"
+                    VPOS="1512"
+                    WIDTH="1051"
+                    HEIGHT="125"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ac305840"
+                    
+                    BASELINE="496 1695 1083 1695" 
+                    HPOS="496"
+                    VPOS="1625"
+                    WIDTH="587"
+                    HEIGHT="104">
+            <Shape><Polygon POINTS="496 1695 496 1625 1083 1625 1083 1695 1083 1725 496 1729"/></Shape>
+	    <String CONTENT="genui cyhoonum."
+                    HPOS="496"
+                    VPOS="1625"
+                    WIDTH="587"
+                    HEIGHT="104"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0a219851"
+                    
+                    BASELINE="496 1770 1288 1783" 
+                    HPOS="487"
+                    VPOS="1700"
+                    WIDTH="801"
+                    HEIGHT="100">
+            <Shape><Polygon POINTS="496 1770 496 1700 1283 1700 1288 1783 1279 1800 487 1791"/></Shape>
+	    <String CONTENT="De cyhoono tyberis filio."
+                    HPOS="487"
+                    VPOS="1700"
+                    WIDTH="801"
+                    HEIGHT="100"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6707b90e"
+                    
+                    BASELINE="491 1858 1525 1866" 
+                    HPOS="483"
+                    VPOS="1770"
+                    WIDTH="1042"
+                    HEIGHT="134">
+            <Shape><Polygon POINTS="491 1858 491 1770 1521 1770 1525 1866 1517 1904 483 1879"/></Shape>
+	    <String CONTENT="De Asio fluuio.xviii.oceani filio:ꝗ"
+                    HPOS="483"
+                    VPOS="1770"
+                    WIDTH="1042"
+                    HEIGHT="134"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_09aeff6c"
+                    
+                    BASELINE="500 1950 1113 1950" 
+                    HPOS="500"
+                    VPOS="1870"
+                    WIDTH="613"
+                    HEIGHT="109">
+            <Shape><Polygon POINTS="500 1950 500 1870 1113 1875 1113 1950 1113 1966 500 1979"/></Shape>
+	    <String CONTENT="genuit pelagonium."
+                    HPOS="500"
+                    VPOS="1870"
+                    WIDTH="613"
+                    HEIGHT="109"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d1fd54e1"
+                    
+                    BASELINE="491 2029 1538 2037" 
+                    HPOS="487"
+                    VPOS="1950"
+                    WIDTH="1051"
+                    HEIGHT="108">
+            <Shape><Polygon POINTS="491 2029 491 1950 1538 1950 1538 2037 1534 2058 487 2058"/></Shape>
+	    <String CONTENT="De Pelagõio axii filio:qui genuit a"
+                    HPOS="487"
+                    VPOS="1950"
+                    WIDTH="1051"
+                    HEIGHT="108"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7d6e6c01"
+                    
+                    BASELINE="496 2104 825 2112" 
+                    HPOS="487"
+                    VPOS="2025"
+                    WIDTH="338"
+                    HEIGHT="108">
+            <Shape><Polygon POINTS="496 2104 496 2025 821 2025 825 2112 817 2133 487 2125"/></Shape>
+	    <String CONTENT="steropum."
+                    HPOS="487"
+                    VPOS="2025"
+                    WIDTH="338"
+                    HEIGHT="108"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6c809307"
+                    
+                    BASELINE="491 2191 1325 2204" 
+                    HPOS="483"
+                    VPOS="2112"
+                    WIDTH="842"
+                    HEIGHT="121">
+            <Shape><Polygon POINTS="491 2191 491 2112 1321 2129 1325 2204 1317 2233 483 2208"/></Shape>
+	    <String CONTENT="De asteropo pelagonii filio."
+                    HPOS="483"
+                    VPOS="2112"
+                    WIDTH="842"
+                    HEIGHT="121"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_98ff2978"
+                    
+                    BASELINE="491 2279 1525 2291" 
+                    HPOS="483"
+                    VPOS="2187"
+                    WIDTH="1042"
+                    HEIGHT="138">
+            <Shape><Polygon POINTS="491 2279 491 2187 1525 2195 1525 2291 1517 2325 483 2295"/></Shape>
+	    <String CONTENT="De asopo fluuio oceani.xix.filio:ꝗ"
+                    HPOS="483"
+                    VPOS="2187"
+                    WIDTH="1042"
+                    HEIGHT="138"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2b593a0c"
+                    
+                    BASELINE="500 2358 1267 2366" 
+                    HPOS="491"
+                    VPOS="2291"
+                    WIDTH="776"
+                    HEIGHT="92">
+            <Shape><Polygon POINTS="500 2358 500 2291 1263 2300 1267 2366 1258 2383 491 2379"/></Shape>
+	    <String CONTENT="genuit ypseum &amp; ęginam."
+                    HPOS="491"
+                    VPOS="2291"
+                    WIDTH="776"
+                    HEIGHT="92"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_47b363dd"
+                    
+                    BASELINE="496 2445 1384 2454" 
+                    HPOS="487"
+                    VPOS="2350"
+                    WIDTH="897"
+                    HEIGHT="120">
+            <Shape><Polygon POINTS="496 2445 496 2350 1379 2379 1384 2454 1375 2470 487 2462"/></Shape>
+	    <String CONTENT="De ypseo asopi fluminis filio."
+                    HPOS="487"
+                    VPOS="2350"
+                    WIDTH="897"
+                    HEIGHT="120"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_071a7a32"
+                    
+                    BASELINE="496 2525 1521 2537" 
+                    HPOS="487"
+                    VPOS="2437"
+                    WIDTH="1034"
+                    HEIGHT="129">
+            <Shape><Polygon POINTS="496 2525 496 2437 1521 2458 1521 2537 1513 2566 487 2554"/></Shape>
+	    <String CONTENT="De Aegina filia asopi:quę peperit"
+                    HPOS="487"
+                    VPOS="2437"
+                    WIDTH="1034"
+                    HEIGHT="129"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_953d66ba"
+                    
+                    BASELINE="491 2608 729 2616" 
+                    HPOS="487"
+                    VPOS="2545"
+                    WIDTH="242"
+                    HEIGHT="92">
+            <Shape><Polygon POINTS="491 2608 491 2545 725 2554 729 2616 725 2637 487 2637"/></Shape>
+	    <String CONTENT="eacum."
+                    HPOS="487"
+                    VPOS="2545"
+                    WIDTH="242"
+                    HEIGHT="92"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5ffa34be"
+                    
+                    BASELINE="496 2691 1517 2704" 
+                    HPOS="487"
+                    VPOS="2604"
+                    WIDTH="1030"
+                    HEIGHT="121">
+            <Shape><Polygon POINTS="496 2691 496 2604 1513 2620 1517 2704 1509 2725 487 2712"/></Shape>
+	    <String CONTENT="De Cephyso flumine oceani.xx.fi&#39;"
+                    HPOS="487"
+                    VPOS="2604"
+                    WIDTH="1030"
+                    HEIGHT="121"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_fb3cf557"
+                    
+                    BASELINE="496 2779 1242 2787" 
+                    HPOS="487"
+                    VPOS="2687"
+                    WIDTH="755"
+                    HEIGHT="129">
+            <Shape><Polygon POINTS="496 2779 496 2687 1238 2712 1242 2787 1233 2816 487 2804"/></Shape>
+	    <String CONTENT="lio:qui genuit narcissum."
+                    HPOS="487"
+                    VPOS="2687"
+                    WIDTH="755"
+                    HEIGHT="129"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_63250106"
+                    
+                    BASELINE="496 2862 1254 2875" 
+                    HPOS="487"
+                    VPOS="2779"
+                    WIDTH="767"
+                    HEIGHT="116">
+            <Shape><Polygon POINTS="496 2862 496 2779 1254 2800 1254 2875 1246 2895 487 2887"/></Shape>
+	    <String CONTENT="De narcisso filio cephysi."
+                    HPOS="487"
+                    VPOS="2779"
+                    WIDTH="767"
+                    HEIGHT="116"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8965e1be"
+                    
+                    BASELINE="496 2950 1529 2962" 
+                    HPOS="487"
+                    VPOS="2862"
+                    WIDTH="1042"
+                    HEIGHT="133">
+            <Shape><Polygon POINTS="496 2950 496 2862 1529 2883 1529 2962 1521 2995 487 2966"/></Shape>
+	    <String CONTENT="De meãdro flumine onceãi.xxi.filio."
+                    HPOS="487"
+                    VPOS="2862"
+                    WIDTH="1042"
+                    HEIGHT="133"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_76e38d33"
+                    
+                    BASELINE="496 3029 1121 3037" 
+                    HPOS="487"
+                    VPOS="2954"
+                    WIDTH="634"
+                    HEIGHT="104">
+            <Shape><Polygon POINTS="496 3029 496 2954 1117 2962 1121 3037 1113 3058 487 3050"/></Shape>
+	    <String CONTENT="qui genuit Cyanem."
+                    HPOS="487"
+                    VPOS="2954"
+                    WIDTH="634"
+                    HEIGHT="104"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9b30c242"
+                    
+                    BASELINE="496 3116 1250 3125" 
+                    HPOS="487"
+                    VPOS="3037"
+                    WIDTH="763"
+                    HEIGHT="113">
+            <Shape><Polygon POINTS="496 3116 496 3037 1246 3050 1250 3125 1242 3150 487 3133"/></Shape>
+	    <String CONTENT="De Cyane filia meandri."
+                    HPOS="487"
+                    VPOS="3037"
+                    WIDTH="763"
+                    HEIGHT="113"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_64081002"
+                    
+                    BASELINE="496 3200 1350 3212" 
+                    HPOS="487"
+                    VPOS="3116"
+                    WIDTH="863"
+                    HEIGHT="117">
+            <Shape><Polygon POINTS="496 3200 496 3116 1350 3120 1350 3212 1342 3233 487 3220"/></Shape>
+	    <String CONTENT="De phyllira.xxii.filia oceani."
+                    HPOS="487"
+                    VPOS="3116"
+                    WIDTH="863"
+                    HEIGHT="117"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b23808f2"
+                    
+                    BASELINE="496 3279 1529 3300" 
+                    HPOS="487"
+                    VPOS="3191"
+                    WIDTH="1042"
+                    HEIGHT="129">
+            <Shape><Polygon POINTS="496 3279 496 3191 1529 3204 1529 3300 1521 3320 487 3316"/></Shape>
+	    <String CONTENT="De Sperchio fluuio.xxiii.oceãi filio"
+                    HPOS="487"
+                    VPOS="3191"
+                    WIDTH="1042"
+                    HEIGHT="129"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7687eef2"
+                    
+                    BASELINE="496 3366 1188 3379" 
+                    HPOS="487"
+                    VPOS="3291"
+                    WIDTH="701"
+                    HEIGHT="109">
+            <Shape><Polygon POINTS="496 3366 496 3291 1183 3304 1188 3379 1179 3400 487 3383"/></Shape>
+	    <String CONTENT="qui genuit Mnesteum"
+                    HPOS="487"
+                    VPOS="3291"
+                    WIDTH="701"
+                    HEIGHT="109"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3e371a07"
+                    
+                    BASELINE="491 3445 1304 3462" 
+                    HPOS="483"
+                    VPOS="3354"
+                    WIDTH="821"
+                    HEIGHT="133">
+            <Shape><Polygon POINTS="491 3445 491 3354 1304 3383 1304 3462 1296 3487 483 3466"/></Shape>
+	    <String CONTENT="De Mnesteo sperchii filio."
+                    HPOS="483"
+                    VPOS="3354"
+                    WIDTH="821"
+                    HEIGHT="133"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1d383b66"
+                    
+                    BASELINE="491 3533 1288 3545" 
+                    HPOS="483"
+                    VPOS="3458"
+                    WIDTH="805"
+                    HEIGHT="121">
+            <Shape><Polygon POINTS="491 3533 491 3458 1283 3462 1288 3545 1279 3579 483 3562"/></Shape>
+	    <String CONTENT="De Sole.xxiiii.oceani filio."
+                    HPOS="483"
+                    VPOS="3458"
+                    WIDTH="805"
+                    HEIGHT="121"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c32de105"
+                    
+                    BASELINE="496 3620 1517 3637" 
+                    HPOS="487"
+                    VPOS="3537"
+                    WIDTH="1030"
+                    HEIGHT="129">
+            <Shape><Polygon POINTS="496 3620 496 3537 1517 3541 1517 3637 1509 3666 487 3645"/></Shape>
+	    <String CONTENT="Genealogię deorum gẽtilium liber"
+                    HPOS="487"
+                    VPOS="3537"
+                    WIDTH="1030"
+                    HEIGHT="129"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6241fa4d"
+                    
+                    BASELINE="496 3708 858 3708" 
+                    HPOS="496"
+                    VPOS="3637"
+                    WIDTH="362"
+                    HEIGHT="121">
+            <Shape><Polygon POINTS="496 3708 496 3637 858 3637 858 3708 858 3754 496 3758"/></Shape>
+	    <String CONTENT="vii.explicit."
+                    HPOS="496"
+                    VPOS="3637"
+                    WIDTH="362"
+                    HEIGHT="121"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1774"
+                   VPOS="424"
+                   WIDTH="253"
+                   HEIGHT="291"
+                   ID="eSc_textblock_e2fa97fe"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="1774 424 1774 715 2027 715 2027 424"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_7bc74834"
+                    
+                    BASELINE="1780 665 1989 665" 
+                    HPOS="1771"
+                    VPOS="416"
+                    WIDTH="217"
+                    HEIGHT="296">
+            <Shape><Polygon POINTS="1775 662 1775 416 1988 437 1988 662 1984 712 1771 683"/></Shape>
+	    <String CONTENT="G"
+                    HPOS="1771"
+                    VPOS="416"
+                    WIDTH="217"
+                    HEIGHT="296"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1750"
+                   VPOS="453"
+                   WIDTH="1097"
+                   HEIGHT="3492"
+                   ID="eSc_textblock_1821ee53"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="2847 483 2847 486 2840 486 2840 732 2152 732 2152 804 2841 804 2830 1431 2555 1431 2555 1492 2829 1492 2819 2090 2447 2090 2447 2100 2428 2100 2428 2147 2722 2147 2722 2252 2678 2252 2678 2325 2722 2325 2722 2342 2814 2342 2813 2412 2811 2413 2262 2413 2262 2494 2561 2494 2561 2584 2830 2584 2829 2679 2271 2679 2271 2736 2828 2736 2826 2855 2259 2855 2259 2915 2826 2915 2825 3019 2233 3019 2233 3075 2592 3075 2592 3170 2823 3170 2822 3261 2717 3261 2717 3356 2816 3356 2816 3643 2815 3762 2190 3762 2190 3827 2814 3827 2813 3879 2763 3945 1767 3912 1750 3862 1767 766 1806 709 2021 709 2021 453"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_adfb6ecd"
+                    
+                    BASELINE="1980 520 2826 529" 
+                    HPOS="1971"
+                    VPOS="395"
+                    WIDTH="855"
+                    HEIGHT="150">
+            <Shape><Polygon POINTS="1980 520 1984 395 2046 420 2326 404 2397 400 2401 400 2401 400 2401 400 2405 400 2405 400 2417 404 2455 420 2818 416 2826 529 2818 545 1971 537"/></Shape>
+	    <String CONTENT="Enealogię deorum gentili&#39;"
+                    HPOS="1971"
+                    VPOS="395"
+                    WIDTH="855"
+                    HEIGHT="150"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d6e002be"
+                    
+                    BASELINE="1996 608 2801 616" 
+                    HPOS="1988"
+                    VPOS="529"
+                    WIDTH="813"
+                    HEIGHT="112">
+            <Shape><Polygon POINTS="1996 608 1992 533 2793 529 2801 616 2793 641 1988 620"/></Shape>
+	    <String CONTENT="um secundum Iohannem"
+                    HPOS="1988"
+                    VPOS="529"
+                    WIDTH="813"
+                    HEIGHT="112"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e77c67a2"
+                    
+                    BASELINE="2017 687 2822 695" 
+                    HPOS="2009"
+                    VPOS="604"
+                    WIDTH="813"
+                    HEIGHT="112">
+            <Shape><Polygon POINTS="2017 687 2017 604 2818 629 2822 695 2813 716 2009 708"/></Shape>
+	    <String CONTENT="boccatium de certaldo liber"
+                    HPOS="2009"
+                    VPOS="604"
+                    WIDTH="813"
+                    HEIGHT="112"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9dbbea85"
+                    
+                    BASELINE="1784 779 2142 779" 
+                    HPOS="1780"
+                    VPOS="700"
+                    WIDTH="362"
+                    HEIGHT="104">
+            <Shape><Polygon POINTS="1784 779 1784 712 2142 700 2142 779 2138 804 1780 800"/></Shape>
+	    <String CONTENT="viii.incipit."
+                    HPOS="1780"
+                    VPOS="700"
+                    WIDTH="362"
+                    HEIGHT="104"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e2699821"
+                    
+                    BASELINE="1880 866 2805 858" 
+                    HPOS="1875"
+                    VPOS="775"
+                    WIDTH="930"
+                    HEIGHT="120">
+            <Shape><Polygon POINTS="1880 866 1875 775 2797 779 2805 858 2797 895 1875 887"/></Shape>
+	    <String CONTENT="N arbore autem pręcedenti :"
+                    HPOS="1875"
+                    VPOS="775"
+                    WIDTH="930"
+                    HEIGHT="120"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_bc2ef836"
+                    
+                    BASELINE="1788 950 2822 941" 
+                    HPOS="1780"
+                    VPOS="875"
+                    WIDTH="1042"
+                    HEIGHT="108">
+            <Shape><Polygon POINTS="1788 950 1780 883 2809 875 2822 941 2813 983 1784 979"/></Shape>
+	    <String CONTENT="cuius in radice Saturnus cęli filius"
+                    HPOS="1780"
+                    VPOS="875"
+                    WIDTH="1042"
+                    HEIGHT="108"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6c135c93"
+                    
+                    BASELINE="1780 1025 2822 1033" 
+                    HPOS="1771"
+                    VPOS="954"
+                    WIDTH="1051"
+                    HEIGHT="108">
+            <Shape><Polygon POINTS="1780 1025 1780 954 2818 962 2822 1033 2813 1062 1771 1058"/></Shape>
+	    <String CONTENT="ponitur descibitur tam in ramis"
+                    HPOS="1771"
+                    VPOS="954"
+                    WIDTH="1051"
+                    HEIGHT="108"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_98bf6361"
+                    
+                    BASELINE="1775 1112 2818 1120" 
+                    HPOS="1767"
+                    VPOS="1033"
+                    WIDTH="1051"
+                    HEIGHT="117">
+            <Shape><Polygon POINTS="1775 1112 1775 1033 2813 1045 2818 1120 2809 1150 1767 1141"/></Shape>
+	    <String CONTENT="ꝗᷓ in frondibus pars posteritatis e&#39;"
+                    HPOS="1767"
+                    VPOS="1033"
+                    WIDTH="1051"
+                    HEIGHT="117"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3153ec5a"
+                    
+                    BASELINE="1771 1195 2809 1204" 
+                    HPOS="1763"
+                    VPOS="1112"
+                    WIDTH="1046"
+                    HEIGHT="121">
+            <Shape><Polygon POINTS="1771 1195 1771 1112 2805 1112 2809 1204 2801 1233 1763 1212"/></Shape>
+	    <String CONTENT="iusdem saturni:cum reliqua omnis"
+                    HPOS="1763"
+                    VPOS="1112"
+                    WIDTH="1046"
+                    HEIGHT="121"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_bc9f2f2c"
+                    
+                    BASELINE="1771 1279 2797 1291" 
+                    HPOS="1763"
+                    VPOS="1200"
+                    WIDTH="1034"
+                    HEIGHT="112">
+            <Shape><Polygon POINTS="1771 1279 1767 1204 2788 1200 2797 1291 2788 1312 1763 1295"/></Shape>
+	    <String CONTENT="in quinq; seauentibus describitur"
+                    HPOS="1763"
+                    VPOS="1200"
+                    WIDTH="1034"
+                    HEIGHT="112"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c9b92d18"
+                    
+                    BASELINE="1771 1366 2813 1375" 
+                    HPOS="1763"
+                    VPOS="1270"
+                    WIDTH="1050"
+                    HEIGHT="138">
+            <Shape><Polygon POINTS="1771 1366 1775 1270 1859 1291 2805 1283 2813 1375 2805 1408 1763 1383"/></Shape>
+	    <String CONTENT="librios sub iunõe &amp; neptũno atq; Io&#39;"
+                    HPOS="1763"
+                    VPOS="1270"
+                    WIDTH="1050"
+                    HEIGHT="138"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_67a8790d"
+                    
+                    BASELINE="1771 1450 2542 1458" 
+                    HPOS="1763"
+                    VPOS="1366"
+                    WIDTH="779"
+                    HEIGHT="109">
+            <Shape><Polygon POINTS="1771 1450 1767 1370 2534 1366 2542 1458 2534 1475 1763 1462"/></Shape>
+	    <String CONTENT="ue filiis eius.prohęmium."
+                    HPOS="1763"
+                    VPOS="1366"
+                    WIDTH="779"
+                    HEIGHT="109"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ccd9cce2"
+                    
+                    BASELINE="1940 1537 2818 1545" 
+                    HPOS="1934"
+                    VPOS="1445"
+                    WIDTH="879"
+                    HEIGHT="121">
+            <Shape><Polygon POINTS="1938 1533 1938 1445 2076 1470 2784 1470 2813 1541 2809 1566 1934 1566"/></Shape>
+	    <String CONTENT="E saturno.xi.cęli filio:qui.x.ge"
+                    HPOS="1934"
+                    VPOS="1445"
+                    WIDTH="879"
+                    HEIGHT="121"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3d70811a"
+                    
+                    BASELINE="1946 1620 2818 1629" 
+                    HPOS="1934"
+                    VPOS="1545"
+                    WIDTH="879"
+                    HEIGHT="105">
+            <Shape><Polygon POINTS="1942 1616 1942 1545 2809 1558 2813 1625 2805 1650 1934 1637"/></Shape>
+	    <String CONTENT="nuit filios scilicet primũ cro&#39;"
+                    HPOS="1934"
+                    VPOS="1545"
+                    WIDTH="879"
+                    HEIGHT="105"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_622ccfd1"
+                    
+                    BASELINE="1767 1695 2813 1716" 
+                    HPOS="1759"
+                    VPOS="1625"
+                    WIDTH="1054"
+                    HEIGHT="116">
+            <Shape><Polygon POINTS="1767 1695 1763 1629 2601 1625 2605 1625 2813 1650 2813 1716 2805 1741 1759 1712"/></Shape>
+	    <String CONTENT="mim.ii. uestram.iii.cererem.iiii.glau"
+                    HPOS="1759"
+                    VPOS="1625"
+                    WIDTH="1054"
+                    HEIGHT="116"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_71e52f15"
+                    
+                    BASELINE="1767 1783 2797 1800" 
+                    HPOS="1759"
+                    VPOS="1708"
+                    WIDTH="1038"
+                    HEIGHT="125">
+            <Shape><Polygon POINTS="1767 1783 1767 1708 2793 1725 2797 1800 2788 1833 1759 1800"/></Shape>
+	    <String CONTENT="cam.v.plutonem.vi.Chyronem.vii."
+                    HPOS="1759"
+                    VPOS="1708"
+                    WIDTH="1038"
+                    HEIGHT="125"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5a24a467"
+                    
+                    BASELINE="1767 1875 2805 1875" 
+                    HPOS="1767"
+                    VPOS="1791"
+                    WIDTH="1038"
+                    HEIGHT="104">
+            <Shape><Polygon POINTS="1767 1875 1767 1791 2009 1812 2801 1795 2805 1875 2805 1895 1767 1895"/></Shape>
+	    <String CONTENT="Pycum.viii.Iunonem.x.Iouem ter&#39;"
+                    HPOS="1767"
+                    VPOS="1791"
+                    WIDTH="1038"
+                    HEIGHT="104"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_72b6f974"
+                    
+                    BASELINE="1767 1954 2809 1962" 
+                    HPOS="1759"
+                    VPOS="1866"
+                    WIDTH="1050"
+                    HEIGHT="117">
+            <Shape><Polygon POINTS="1767 1954 1763 1887 2209 1866 2213 1866 2213 1866 2217 1866 2217 1866 2251 1879 2292 1895 2722 1895 2797 1870 2809 1962 2801 1983 1759 1970"/></Shape>
+	    <String CONTENT="tium.Sane de Iunone neptunno &amp;"
+                    HPOS="1759"
+                    VPOS="1866"
+                    WIDTH="1050"
+                    HEIGHT="117"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d11c231a"
+                    
+                    BASELINE="1767 2037 2813 2050" 
+                    HPOS="1759"
+                    VPOS="1950"
+                    WIDTH="1054"
+                    HEIGHT="125">
+            <Shape><Polygon POINTS="1767 2037 1767 1950 2813 1975 2813 2050 2805 2075 1759 2050"/></Shape>
+	    <String CONTENT="Ioue non in hoc libro:sed in sequẽ&#39;"
+                    HPOS="1759"
+                    VPOS="1950"
+                    WIDTH="1054"
+                    HEIGHT="125"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3844200b"
+                    
+                    BASELINE="1767 2116 2459 2133" 
+                    HPOS="1759"
+                    VPOS="2033"
+                    WIDTH="700"
+                    HEIGHT="125">
+            <Shape><Polygon POINTS="1767 2116 1763 2041 2280 2033 2284 2033 2284 2033 2455 2058 2459 2133 2451 2158 1759 2133"/></Shape>
+	    <String CONTENT="tibus.v.libris scribetur."
+                    HPOS="1759"
+                    VPOS="2033"
+                    WIDTH="700"
+                    HEIGHT="125"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b23667ac"
+                    
+                    BASELINE="1767 2204 2743 2212" 
+                    HPOS="1759"
+                    VPOS="2125"
+                    WIDTH="984"
+                    HEIGHT="120">
+            <Shape><Polygon POINTS="1767 2204 1767 2125 2738 2137 2743 2212 2734 2245 1759 2225"/></Shape>
+	    <String CONTENT="De Cromi primo Saturni filio."
+                    HPOS="1759"
+                    VPOS="2125"
+                    WIDTH="984"
+                    HEIGHT="120"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0912397f"
+                    
+                    BASELINE="1767 2287 2680 2300" 
+                    HPOS="1759"
+                    VPOS="2212"
+                    WIDTH="921"
+                    HEIGHT="113">
+            <Shape><Polygon POINTS="1767 2287 1767 2212 2676 2225 2680 2300 2672 2325 1759 2304"/></Shape>
+	    <String CONTENT="De uestra secunda saturni filia."
+                    HPOS="1759"
+                    VPOS="2212"
+                    WIDTH="921"
+                    HEIGHT="113"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6c5c135a"
+                    
+                    BASELINE="1767 2370 2801 2379" 
+                    HPOS="1759"
+                    VPOS="2287"
+                    WIDTH="1042"
+                    HEIGHT="129">
+            <Shape><Polygon POINTS="1767 2370 1767 2287 2801 2308 2801 2379 2793 2416 1759 2395"/></Shape>
+	    <String CONTENT="De Cerere.iii.Saturni filia.&amp; ma&#39;"
+                    HPOS="1759"
+                    VPOS="2287"
+                    WIDTH="1042"
+                    HEIGHT="129"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_43e178fa"
+                    
+                    BASELINE="1767 2458 2238 2466" 
+                    HPOS="1759"
+                    VPOS="2383"
+                    WIDTH="479"
+                    HEIGHT="108">
+            <Shape><Polygon POINTS="1767 2458 1767 2383 2234 2391 2238 2466 2230 2491 1759 2470"/></Shape>
+	    <String CONTENT="tre proserpinę."
+                    HPOS="1759"
+                    VPOS="2383"
+                    WIDTH="479"
+                    HEIGHT="108"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ff57f1ee"
+                    
+                    BASELINE="1767 2537 2567 2554" 
+                    HPOS="1759"
+                    VPOS="2450"
+                    WIDTH="808"
+                    HEIGHT="137">
+            <Shape><Polygon POINTS="1767 2537 1767 2450 2567 2483 2567 2554 2559 2587 1759 2558"/></Shape>
+	    <String CONTENT="De glauca.iiii.Saturni filia."
+                    HPOS="1759"
+                    VPOS="2450"
+                    WIDTH="808"
+                    HEIGHT="137"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4f33ed69"
+                    
+                    BASELINE="1767 2625 2805 2641" 
+                    HPOS="1759"
+                    VPOS="2533"
+                    WIDTH="1046"
+                    HEIGHT="125">
+            <Shape><Polygon POINTS="1767 2625 1767 2533 1867 2554 1942 2537 1950 2537 1950 2537 1950 2537 1955 2537 1955 2537 1959 2537 1963 2537 2034 2558 2188 2545 2242 2541 2246 2541 2246 2541 2246 2541 2251 2541 2251 2541 2251 2541 2263 2545 2296 2566 2801 2566 2805 2641 2797 2658 1759 2645"/></Shape>
+	    <String CONTENT="De plutone.v.Saturni filio:qui gẽu"
+                    HPOS="1759"
+                    VPOS="2533"
+                    WIDTH="1046"
+                    HEIGHT="125"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b42aac6f"
+                    
+                    BASELINE="1767 2708 2284 2716" 
+                    HPOS="1759"
+                    VPOS="2625"
+                    WIDTH="525"
+                    HEIGHT="112">
+            <Shape><Polygon POINTS="1767 2708 1763 2629 2276 2625 2284 2716 2276 2737 1759 2733"/></Shape>
+	    <String CONTENT="it uenerationem."
+                    HPOS="1759"
+                    VPOS="2625"
+                    WIDTH="525"
+                    HEIGHT="112"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_fb02ccc6"
+                    
+                    BASELINE="1767 2795 2801 2804" 
+                    HPOS="1759"
+                    VPOS="2704"
+                    WIDTH="1042"
+                    HEIGHT="137">
+            <Shape><Polygon POINTS="1767 2795 1767 2704 2797 2729 2801 2804 2793 2841 1759 2816"/></Shape>
+	    <String CONTENT="De ueneratiõe Plutonis filia &amp; ho&#39;"
+                    HPOS="1759"
+                    VPOS="2704"
+                    WIDTH="1042"
+                    HEIGHT="137"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c7632e38"
+                    
+                    BASELINE="1767 2883 2226 2883" 
+                    HPOS="1763"
+                    VPOS="2804"
+                    WIDTH="463"
+                    HEIGHT="104">
+            <Shape><Polygon POINTS="1767 2883 1763 2812 2221 2804 2226 2883 2221 2908 1763 2904"/></Shape>
+	    <String CONTENT="noris coniuge."
+                    HPOS="1763"
+                    VPOS="2804"
+                    WIDTH="463"
+                    HEIGHT="104"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_461328ae"
+                    
+                    BASELINE="1767 2962 2801 2983" 
+                    HPOS="1759"
+                    VPOS="2879"
+                    WIDTH="1042"
+                    HEIGHT="133">
+            <Shape><Polygon POINTS="1767 2962 1767 2879 2801 2908 2801 2983 2793 3012 1759 2983"/></Shape>
+	    <String CONTENT="De chyrone.vi.Saturni filio:qui ge"
+                    HPOS="1759"
+                    VPOS="2879"
+                    WIDTH="1042"
+                    HEIGHT="133"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_df4eade9"
+                    
+                    BASELINE="1763 3050 2238 3050" 
+                    HPOS="1759"
+                    VPOS="2970"
+                    WIDTH="479"
+                    HEIGHT="113">
+            <Shape><Polygon POINTS="1763 3050 1759 2983 2234 2970 2238 3050 2234 3083 1759 3070"/></Shape>
+	    <String CONTENT="nuit ochyroem."
+                    HPOS="1759"
+                    VPOS="2970"
+                    WIDTH="479"
+                    HEIGHT="113"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c67c8965"
+                    
+                    BASELINE="1763 3129 2563 3145" 
+                    HPOS="1755"
+                    VPOS="3054"
+                    WIDTH="808"
+                    HEIGHT="112">
+            <Shape><Polygon POINTS="1763 3129 1763 3054 2563 3070 2563 3145 2555 3166 1755 3145"/></Shape>
+	    <String CONTENT="De ochyroe filia chyronis."
+                    HPOS="1755"
+                    VPOS="3054"
+                    WIDTH="808"
+                    HEIGHT="112"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c85cf2e9"
+                    
+                    BASELINE="1763 3216 2801 3233" 
+                    HPOS="1755"
+                    VPOS="3129"
+                    WIDTH="1046"
+                    HEIGHT="121">
+            <Shape><Polygon POINTS="1763 3216 1763 3129 2801 3154 2801 3233 2793 3250 1755 3233"/></Shape>
+	    <String CONTENT="De Pyco.vii.Saturni filio:qui genu"
+                    HPOS="1755"
+                    VPOS="3129"
+                    WIDTH="1046"
+                    HEIGHT="121"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_bbeaed39"
+                    
+                    BASELINE="1763 3300 2713 3316" 
+                    HPOS="1755"
+                    VPOS="3225"
+                    WIDTH="958"
+                    HEIGHT="116">
+            <Shape><Polygon POINTS="1763 3300 1763 3225 2713 3229 2713 3316 2705 3341 1755 3316"/></Shape>
+	    <String CONTENT="it faunum &amp; sentam &amp; faunam."
+                    HPOS="1755"
+                    VPOS="3225"
+                    WIDTH="958"
+                    HEIGHT="116"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_21da5f4d"
+                    
+                    BASELINE="1763 3383 2776 3395" 
+                    HPOS="1755"
+                    VPOS="3300"
+                    WIDTH="1021"
+                    HEIGHT="120">
+            <Shape><Polygon POINTS="1763 3383 1763 3300 2776 3325 2776 3395 2768 3420 1755 3404"/></Shape>
+	    <String CONTENT="De fauno Pyci filio:qui genuit"
+                    HPOS="1755"
+                    VPOS="3300"
+                    WIDTH="1021"
+                    HEIGHT="120"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_36f322b9"
+                    
+                    BASELINE="1763 3466 2797 3479" 
+                    HPOS="1755"
+                    VPOS="3395"
+                    WIDTH="1042"
+                    HEIGHT="125">
+            <Shape><Polygon POINTS="1763 3466 1763 3395 2797 3395 2797 3479 2788 3520 1755 3491"/></Shape>
+	    <String CONTENT="faunos satyros panes &amp; syluanos."
+                    HPOS="1755"
+                    VPOS="3395"
+                    WIDTH="1042"
+                    HEIGHT="125"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d026a87f"
+                    
+                    BASELINE="1767 3554 2797 3575" 
+                    HPOS="1759"
+                    VPOS="3479"
+                    WIDTH="1038"
+                    HEIGHT="129">
+            <Shape><Polygon POINTS="1767 3554 1767 3479 2793 3491 2797 3575 2788 3608 1759 3591"/></Shape>
+	    <String CONTENT="acym &amp; eurimedontem &amp; latinum"
+                    HPOS="1759"
+                    VPOS="3479"
+                    WIDTH="1038"
+                    HEIGHT="129"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_cbb7dbc6"
+                    
+                    BASELINE="1780 3633 2801 3650" 
+                    HPOS="1771"
+                    VPOS="3562"
+                    WIDTH="1030"
+                    HEIGHT="117">
+            <Shape><Polygon POINTS="1780 3633 1780 3562 2797 3583 2801 3650 2793 3679 1771 3662"/></Shape>
+	    <String CONTENT="&amp; secundum quosdam.sentam fau"
+                    HPOS="1771"
+                    VPOS="3562"
+                    WIDTH="1030"
+                    HEIGHT="117"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5b265a3a"
+                    
+                    BASELINE="1767 3720 2784 3741" 
+                    HPOS="1759"
+                    VPOS="3645"
+                    WIDTH="1025"
+                    HEIGHT="121">
+            <Shape><Polygon POINTS="1767 3720 1767 3645 2784 3666 2784 3741 2776 3766 1759 3745"/></Shape>
+	    <String CONTENT="nam:quam uolunt sororem fuisse"
+                    HPOS="1759"
+                    VPOS="3645"
+                    WIDTH="1025"
+                    HEIGHT="121"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4eec2aae"
+                    
+                    BASELINE="1763 3808 2180 3808" 
+                    HPOS="1759"
+                    VPOS="3729"
+                    WIDTH="421"
+                    HEIGHT="121">
+            <Shape><Polygon POINTS="1763 3808 1763 3729 2180 3741 2180 3808 2176 3850 1759 3829"/></Shape>
+	    <String CONTENT="&amp; coniugem."
+                    HPOS="1759"
+                    VPOS="3729"
+                    WIDTH="421"
+                    HEIGHT="121"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_cddd30f5"
+                    
+                    BASELINE="1763 3891 2784 3908" 
+                    HPOS="1759"
+                    VPOS="3800"
+                    WIDTH="1025"
+                    HEIGHT="208">
+            <Shape><Polygon POINTS="1763 3891 1763 3800 2784 3825 2784 3908 2772 4008 2713 3983 2622 4004 2597 4008 2592 4008 2588 4008 2576 4004 2501 3975 2442 3995 2438 3995 2434 3995 2263 3970 2230 3995 2221 4000 2217 4000 2213 4000 2213 4004 2059 4004 2055 4000 2051 4000 2046 4000 2034 3987 2005 3966 1975 3987 1963 3995 1959 3995 1955 3995 1955 4000 1880 4000 1875 3995 1871 3995 1867 3995 1867 3991 1855 3983 1838 3966 1759 3979"/></Shape>
+	    <String CONTENT="De senta fauna pyci filia &amp; cõiuge"
+                    HPOS="1759"
+                    VPOS="3800"
+                    WIDTH="1025"
+                    HEIGHT="208"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="3164"
+                   VPOS="126"
+                   WIDTH="78"
+                   HEIGHT="94"
+                   ID="eSc_textblock_ff7d77f5"
+                   TAGREFS="BT1467">
+          <Shape><Polygon POINTS="3234 126 3242 220 3168 220 3164 138"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_468972ea"
+                    
+                    BASELINE="3168 200 3226 200" 
+                    HPOS="3159"
+                    VPOS="137"
+                    WIDTH="63"
+                    HEIGHT="108">
+            <Shape><Polygon POINTS="3164 200 3159 141 3218 137 3222 200 3218 245 3159 233"/></Shape>
+	    <String CONTENT="6"
+                    HPOS="3159"
+                    VPOS="137"
+                    WIDTH="63"
+                    HEIGHT="108"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1754"
+                   VPOS="441"
+                   WIDTH="1"
+                   HEIGHT="267"
+                   ID="eSc_textblock_4473e3b5"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="1754 708 1754 441 1755 441 1755 708"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="2263"
+                   VPOS="1282"
+                   WIDTH="6"
+                   HEIGHT="18"
+                   ID="eSc_textblock_ec907925"
+                   TAGREFS="BT">
+          <Shape><Polygon POINTS="2263 1300 2263 1282 2269 1282 2269 1300"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="2287"
+                   VPOS="647"
+                   WIDTH="6"
+                   HEIGHT="6"
+                   ID="eSc_textblock_ed47287b"
+                   TAGREFS="BT">
+          <Shape><Polygon POINTS="2287 653 2287 647 2293 647 2293 653"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1150"
+                   VPOS="3983"
+                   WIDTH="29"
+                   HEIGHT="29"
+                   ID="eSc_textblock_ef110aa5"
+                   TAGREFS="BT">
+          <Shape><Polygon POINTS="1179 3983 1179 4012 1167 4012 1150 3983"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_e52fe271"
+                    
+                    BASELINE="1774 1647 1938 1647" 
+                    HPOS="1771"
+                    VPOS="1441"
+                    WIDTH="163"
+                    HEIGHT="225">
+            <Shape><Polygon POINTS="1771 1645 1771 1441 1934 1445 1934 1645 1934 1658 1771 1666"/></Shape>
+	    <String CONTENT="D"
+                    HPOS="1771"
+                    VPOS="1441"
+                    WIDTH="163"
+                    HEIGHT="225"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
