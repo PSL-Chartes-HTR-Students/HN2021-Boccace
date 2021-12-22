@@ -18,3 +18,14 @@ Principles of standardisation of the transcriptions, namely transcription norms 
 
 How do we ensure our quality of data / implementation of ChocoMufin for the characters. 
 
+The structure of the repository isn't an original conception. We got inspired by the HTR-UNited and decided to present it following this disposition : 
+
+- one folder containing all the data about the ancient french manuscript (BnF Rés. J-845)
+- another concerning the latin version (Mazarine Inc59)
+- a LaTeX synthesis of the research
+
+Inside those main folders, we can find a similar structure. Both present three subfolders : 
+
+- one for the segmentation and transcription models.
+- one for the training corpus used to train the A.I. on escriptorium (documents are exclusively XML Alto with 
+- one for the verification corpus.
