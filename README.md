@@ -27,5 +27,5 @@ The structure of the repository isn't an original conception. We got inspired by
 Inside those main folders, we can find a similar structure. Both present three subfolders : 
 
 - one for the segmentation and transcription models.
-- one for the training corpus used to train the A.I. on escriptorium (documents are exclusively XML Alto with 
+- one for the training corpus used to train the A.I. on escriptorium (documents are exclusively XML Alto with jpg and an odt containing the full text)
 - one for the verification corpus.
