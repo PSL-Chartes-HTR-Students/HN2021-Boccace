@@ -26,15 +26,15 @@ We decided, following HTR-United workflows, to implementation of Chocomufin for 
 
 The structure of the repository isn't an original conception. We got inspired by the HTR-UNited and decided to present it following this disposition : 
 
-- one folder containing all the data about the ancient french manuscript (```BnF Rés. J-845)
-- another concerning the latin version (```Mazarine Inc59)
-- a LaTeX synthesis of the research (```LaTeX_documentation)
+- one folder containing all the data about the ancient french manuscript (```BnF Rés. J-845```)
+- another concerning the latin version (```Mazarine Inc59```)
+- a LaTeX synthesis of the research (```LaTeX_documentation```)
 
 Inside those main folders, we can find a similar structure. Both present three subfolders : 
 
-- one for the segmentation and transcription models(```models).
-- one for the training corpus used to train the A.I. on escriptorium (documents are exclusively XML Alto with jpg and a .txt containing the full text) (```training_corpus)
-- one for the verification corpus.(```verification_corpus)
+- one for the segmentation and transcription models(```models```).
+- one for the training corpus used to train the A.I. on escriptorium (documents are exclusively XML Alto with jpg and a .txt containing the full text) (```training_corpus```)
+- one for the verification corpus.(```verification_corpus```)
 
  # **Bibliographic references**
  
@@ -86,3 +86,10 @@ STUZMANN,Dominique (2011), « Paléographie statistique pour décrire, identifie
 Noé Leroy , *alias* @apogonoe | Eraslus student, Master HN 2021-2020 @ École nationale des chartes 
 Malamatenia Vlachou-Eftsathiou *alias* @malamatenia | Master HN 1 student @ École nationale des chartes 
 Marco Maulu *alias* @mmaulu | Sassari University of Sardegnia, invited professor @ École nationale des chartes
+
+## **Progress review**
+
+- [x] Initialisation of the project with the first models and norms
+- [x] Reframing of the project with the HTR-United initiative
+- [ ] Fix chocomifin bug
+- [ ] Establishing collaboration principles and expansion of the project
