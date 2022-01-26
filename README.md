@@ -20,7 +20,7 @@ Principles of standardisation of the transcriptions, namely transcription norms 
 
 # **Quality control**
 
-We decided, following HTR-United workflows, to implementation of Chocomufin for the characters. Chocomufin is a software-workflow developped by Clérice Thubault and Pinche Ariane that creates a table of the characters (```table.csv```) that exist in the ground truth for both documents, and checks, with every push and pull request that the .xml documents found in the folders are conforming to this particular table. 
+We decided, following HTR-United workflows, to proceed with the implementation of Chocomufin for the control of the special characters. Chocomufin is a software-workflow developped by Clérice Thubault and Pinche Ariane that creates a table of the characters (```table.csv```) that exist in the ground truth for both documents, and checks, with every push and pull request that the .xml documents found in the folders are conforming to this particular table. 
 
 # **Guide to reading the repository** 
 
@@ -92,4 +92,4 @@ Marco Maulu *alias* @mmaulu | Sassari University of Sardegnia, invited professor
 - [x] Initialisation of the project with the first models and norms
 - [x] Reframing of the project with the HTR-United initiative
 - [ ] Fix chocomifin bug
-- [ ] Establishing collaboration principles and expansion of the project
+- [x] Establishing collaboration principles and expansion of the project
