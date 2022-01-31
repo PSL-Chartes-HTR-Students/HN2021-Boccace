@@ -42,7 +42,7 @@
                     WIDTH="166"
                     HEIGHT="98">
             <Shape><Polygon POINTS="198 221 196 173 354 170 359 223 357 243 321 243 311 248 284 268 281 268 281 268 281 268 279 268 279 268 276 268 193 266"/></Shape>
-	    <String CONTENT=""
+	    <String CONTENT="Claudiensis"
                     HPOS="193"
                     VPOS="170"
                     WIDTH="166"
@@ -59,7 +59,7 @@
                     WIDTH="93"
                     HEIGHT="55">
             <Shape><Polygon POINTS="198 251 198 213 291 213 291 251 291 266 198 268"/></Shape>
-	    <String CONTENT=""
+	    <String CONTENT="nota. ⁊c̄."
                     HPOS="198"
                     VPOS="213"
                     WIDTH="93"
@@ -86,7 +86,7 @@
                     WIDTH="707"
                     HEIGHT="78">
             <Shape><Polygon POINTS="387 238 384 168 1086 168 1091 231 1091 238 387 246"/></Shape>
-	    <String CONTENT=""
+	    <String CONTENT="Claudien escript dicelle eternite au li"
                     HPOS="384"
                     VPOS="168"
                     WIDTH="707"
@@ -103,7 +103,7 @@
                     WIDTH="704"
                     HEIGHT="68">
             <Shape><Polygon POINTS="387 284 382 238 1079 226 1086 271 1086 281 387 294"/></Shape>
-	    <String CONTENT=""
+	    <String CONTENT="ure au quel par uers heroiques a recite"
                     HPOS="382"
                     VPOS="226"
                     WIDTH="704"
@@ -120,7 +120,7 @@
                     WIDTH="707"
                     HEIGHT="73">
             <Shape><Polygon POINTS="384 336 377 289 1076 276 1084 324 1081 336 384 349"/></Shape>
-	    <String CONTENT=""
+	    <String CONTENT="et eleue les louenges de stilcon en Di“"
                     HPOS="377"
                     VPOS="276"
                     WIDTH="707"
@@ -137,7 +137,7 @@
                     WIDTH="707"
                     HEIGHT="86">
             <Shape><Polygon POINTS="384 389 379 344 1079 321 1086 377 1084 394 384 407"/></Shape>
-	    <String CONTENT=""
+	    <String CONTENT="sant. La mere Des ans ⁊ de laage qui"
                     HPOS="379"
                     VPOS="321"
                     WIDTH="707"
@@ -154,7 +154,7 @@
                     WIDTH="712"
                     HEIGHT="75">
             <Shape><Polygon POINTS="382 442 374 392 1079 379 1086 429 1084 442 382 454"/></Shape>
-	    <String CONTENT=""
+	    <String CONTENT="mesuree ne peut estre est en une fosse ĩ“"
                     HPOS="374"
                     VPOS="379"
                     WIDTH="712"
@@ -171,7 +171,7 @@
                     WIDTH="712"
                     HEIGHT="71">
             <Shape><Polygon POINTS="382 492 377 442 1081 434 1089 485 1086 497 382 505"/></Shape>
-	    <String CONTENT=""
+	    <String CONTENT="congnue en lieu au quel nostre pensee"
                     HPOS="377"
                     VPOS="434"
                     WIDTH="712"
@@ -188,7 +188,7 @@
                     WIDTH="712"
                     HEIGHT="75">
             <Shape><Polygon POINTS="382 542 377 497 1081 487 1089 535 1086 550 382 562"/></Shape>
-	    <String CONTENT=""
+	    <String CONTENT="ne peut ueoir. et en laquelle les Dieux"
                     HPOS="377"
                     VPOS="487"
                     WIDTH="712"
@@ -205,7 +205,7 @@
                     WIDTH="712"
                     HEIGHT="85">
             <Shape><Polygon POINTS="382 598 377 552 1081 535 1089 585 1086 600 382 620"/></Shape>
-	    <String CONTENT=""
+	    <String CONTENT="pouoient a peine entrer qui suppedite ⁊"
                     HPOS="377"
                     VPOS="535"
                     WIDTH="712"
@@ -222,7 +222,7 @@
                     WIDTH="712"
                     HEIGHT="73">
             <Shape><Polygon POINTS="382 650 377 605 1081 593 1089 638 1086 650 382 666"/></Shape>
-	    <String CONTENT=""
+	    <String CONTENT="reuoque les temps. elle change toutes"
                     HPOS="377"
                     VPOS="593"
                     WIDTH="712"
@@ -239,7 +239,7 @@
                     WIDTH="717"
                     HEIGHT="70">
             <Shape><Polygon POINTS="379 701 372 653 1081 643 1089 691 1086 703 379 713"/></Shape>
-	    <String CONTENT=""
+	    <String CONTENT="choses auecques sa plaisante deite La"
                     HPOS="372"
                     VPOS="643"
                     WIDTH="717"
@@ -256,7 +256,7 @@
                     WIDTH="715"
                     HEIGHT="78">
             <Shape><Polygon POINTS="379 754 374 706 1081 688 1089 743 1086 756 379 766"/></Shape>
-	    <String CONTENT=""
+	    <String CONTENT="est ung serpent qui la fosse enlace ⁊ qui"
                     HPOS="374"
                     VPOS="688"
                     WIDTH="715"
@@ -273,7 +273,7 @@
                     WIDTH="712"
                     HEIGHT="73">
             <Shape><Polygon POINTS="382 806 377 759 1081 748 1089 796 1089 804 382 821"/></Shape>
-	    <String CONTENT=""
+	    <String CONTENT="perpetuellement rauerdist qui Deuore"
                     HPOS="377"
                     VPOS="748"
                     WIDTH="712"
@@ -290,7 +290,7 @@
                     WIDTH="702"
                     HEIGHT="88">
             <Shape><Polygon POINTS="384 859 379 814 1074 791 1081 844 1079 857 384 879"/></Shape>
-	    <String CONTENT=""
+	    <String CONTENT="sa queue ⁊ par taisible las de temps leˢ"
                     HPOS="379"
                     VPOS="791"
                     WIDTH="702"
@@ -307,7 +307,7 @@
                     WIDTH="712"
                     HEIGHT="68">
             <Shape><Polygon POINTS="384 909 379 864 1084 854 1091 899 1089 912 384 922"/></Shape>
-	    <String CONTENT=""
+	    <String CONTENT="commencemens des choses Reduict a"
                     HPOS="379"
                     VPOS="854"
                     WIDTH="712"
@@ -324,7 +324,7 @@
                     WIDTH="709"
                     HEIGHT="81">
             <Shape><Polygon POINTS="387 965 382 919 518 902 518 902 520 902 845 907 857 897 857 894 857 894 860 894 860 894 860 894 862 894 862 894 865 894 1086 904 1091 950 1089 960 387 975"/></Shape>
-	    <String CONTENT=""
+	    <String CONTENT="memoire. A lentree de la fosse est da"
                     HPOS="382"
                     VPOS="894"
                     WIDTH="709"
@@ -341,7 +341,7 @@
                     WIDTH="709"
                     HEIGHT="75">
             <Shape><Polygon POINTS="387 1012 382 967 1084 955 1091 1000 1089 1015 387 1030"/></Shape>
-	    <String CONTENT=""
+	    <String CONTENT="me nature assise ancienne ⁊ de belle fa"
                     HPOS="382"
                     VPOS="955"
                     WIDTH="709"
@@ -358,7 +358,7 @@
                     WIDTH="709"
                     HEIGHT="68">
             <Shape><Polygon POINTS="387 1065 382 1020 1084 1010 1091 1055 1091 1065 387 1078"/></Shape>
-	    <String CONTENT=""
+	    <String CONTENT="ce a chascun Des membres dicelle pen"
                     HPOS="382"
                     VPOS="1010"
                     WIDTH="709"
@@ -375,7 +375,7 @@
                     WIDTH="705"
                     HEIGHT="73">
             <Shape><Polygon POINTS="389 1118 384 1068 1081 1055 1089 1108 1089 1125 389 1128"/></Shape>
-	    <String CONTENT=""
+	    <String CONTENT="dent les ames uolantes Est aussi ung"
                     HPOS="384"
                     VPOS="1055"
                     WIDTH="705"
@@ -392,7 +392,7 @@
                     WIDTH="702"
                     HEIGHT="76">
             <Shape><Polygon POINTS="389 1171 384 1123 1079 1110 1086 1158 1084 1173 389 1186"/></Shape>
-	    <String CONTENT=""
+	    <String CONTENT="uenerable uielart qui droictz nombres"
                     HPOS="384"
                     VPOS="1110"
                     WIDTH="702"
@@ -409,7 +409,7 @@
                     WIDTH="707"
                     HEIGHT="70">
             <Shape><Polygon POINTS="389 1221 384 1176 1084 1166 1091 1211 1089 1226 389 1236"/></Shape>
-	    <String CONTENT=""
+	    <String CONTENT="et proporcions aux corps celestes leurs"
                     HPOS="384"
                     VPOS="1166"
                     WIDTH="707"
@@ -426,7 +426,7 @@
                     WIDTH="707"
                     HEIGHT="71">
             <Shape><Polygon POINTS="389 1271 384 1226 1084 1218 1091 1264 1091 1276 389 1289"/></Shape>
-	    <String CONTENT=""
+	    <String CONTENT="cours et mouuemens et stacions diui“"
                     HPOS="384"
                     VPOS="1218"
                     WIDTH="707"
@@ -443,7 +443,7 @@
                     WIDTH="702"
                     HEIGHT="78">
             <Shape><Polygon POINTS="392 1327 387 1281 1081 1269 1089 1314 1086 1329 392 1347"/></Shape>
-	    <String CONTENT=""
+	    <String CONTENT="se ⁊ ordonne. Par les quelz toutes cho"
                     HPOS="387"
                     VPOS="1269"
                     WIDTH="702"
@@ -460,7 +460,7 @@
                     WIDTH="699"
                     HEIGHT="73">
             <Shape><Polygon POINTS="392 1377 387 1332 1079 1314 1086 1367 1086 1377 392 1387"/></Shape>
-	    <String CONTENT=""
+	    <String CONTENT="ses uiuenet et prennent fin : La Dessus“"
                     HPOS="387"
                     VPOS="1314"
                     WIDTH="699"
@@ -477,7 +477,7 @@
                     WIDTH="697"
                     HEIGHT="78">
             <Shape><Polygon POINTS="392 1430 387 1382 1076 1364 1084 1420 1081 1440 392 1442"/></Shape>
-	    <String CONTENT=""
+	    <String CONTENT="dicte fosse ainsi descripte Dit le poete q̄"
                     HPOS="387"
                     VPOS="1364"
                     WIDTH="697"
@@ -494,7 +494,7 @@
                     WIDTH="702"
                     HEIGHT="67">
             <Shape><Polygon POINTS="392 1482 387 1435 1081 1425 1089 1472 1086 1482 392 1492"/></Shape>
-	    <String CONTENT=""
+	    <String CONTENT="en certains lieux Dicelle habitent les"
                     HPOS="387"
                     VPOS="1425"
                     WIDTH="702"
@@ -511,7 +511,7 @@
                     WIDTH="702"
                     HEIGHT="76">
             <Shape><Polygon POINTS="394 1533 389 1485 1084 1477 1091 1525 1089 1538 394 1553"/></Shape>
-	    <String CONTENT=""
+	    <String CONTENT="siecles diuesres faces selon la distin"
                     HPOS="389"
                     VPOS="1477"
                     WIDTH="702"
@@ -528,7 +528,7 @@
                     WIDTH="697"
                     HEIGHT="78">
             <Shape><Polygon POINTS="394 1585 389 1540 1079 1520 1086 1575 1084 1588 394 1598"/></Shape>
-	    <String CONTENT=""
+	    <String CONTENT="ction de diuers metaulx par les quelleˢ"
                     HPOS="389"
                     VPOS="1520"
                     WIDTH="697"
@@ -545,7 +545,7 @@
                     WIDTH="704"
                     HEIGHT="73">
             <Shape><Polygon POINTS="397 1636 392 1590 1089 1575 1096 1628 1094 1641 397 1648"/></Shape>
-	    <String CONTENT=""
+	    <String CONTENT="choses roy tres uenintu puisses ueoir cõ"
                     HPOS="392"
                     VPOS="1575"
                     WIDTH="704"
@@ -562,7 +562,7 @@
                     WIDTH="702"
                     HEIGHT="81">
             <Shape><Polygon POINTS="399 1688 394 1643 1089 1623 1096 1678 1096 1688 399 1704"/></Shape>
-	    <String CONTENT=""
+	    <String CONTENT="me le poete descript par Doulx stille et"
                     HPOS="394"
                     VPOS="1623"
                     WIDTH="702"
@@ -579,7 +579,7 @@
                     WIDTH="700"
                     HEIGHT="73">
             <Shape><Polygon POINTS="399 1739 394 1693 1086 1678 1094 1731 1091 1744 399 1751"/></Shape>
-	    <String CONTENT=""
+	    <String CONTENT="oroison quelle chose est eternite ⁊ ce qui"
                     HPOS="394"
                     VPOS="1678"
                     WIDTH="700"
@@ -596,7 +596,7 @@
                     WIDTH="704"
                     HEIGHT="78">
             <Shape><Polygon POINTS="402 1794 397 1749 1094 1726 1101 1781 1101 1792 402 1804"/></Shape>
-	    <String CONTENT=""
+	    <String CONTENT="est en eternite contenu. Et affin que il"
                     HPOS="397"
                     VPOS="1726"
                     WIDTH="704"
@@ -613,7 +613,7 @@
                     WIDTH="702"
                     HEIGHT="65">
             <Shape><Polygon POINTS="402 1842 397 1797 1091 1792 1099 1837 1096 1849 402 1857"/></Shape>
-	    <String CONTENT=""
+	    <String CONTENT="monstre comment elle excede toꝰ tẽps"
                     HPOS="397"
                     VPOS="1792"
                     WIDTH="702"
@@ -630,7 +630,7 @@
                     WIDTH="704"
                     HEIGHT="71">
             <Shape><Polygon POINTS="402 1897 397 1852 1094 1839 1101 1885 1099 1897 402 1910"/></Shape>
-	    <String CONTENT=""
+	    <String CONTENT="Dit que la fosse Deternite cest adire la"
                     HPOS="397"
                     VPOS="1839"
                     WIDTH="704"
@@ -647,7 +647,7 @@
                     WIDTH="707"
                     HEIGHT="75">
             <Shape><Polygon POINTS="402 1947 397 1900 1096 1890 1104 1942 1104 1950 402 1965"/></Shape>
-	    <String CONTENT=""
+	    <String CONTENT="profundite incognue De son geron et"
                     HPOS="397"
                     VPOS="1890"
                     WIDTH="707"
@@ -664,7 +664,7 @@
                     WIDTH="709"
                     HEIGHT="71">
             <Shape><Polygon POINTS="399 2000 392 1952 1094 1942 1101 1990 1099 2003 399 2013"/></Shape>
-	    <String CONTENT=""
+	    <String CONTENT="longue stacion sicelle ne peut poĩt seu"
                     HPOS="392"
                     VPOS="1942"
                     WIDTH="709"
@@ -681,7 +681,7 @@
                     WIDTH="704"
                     HEIGHT="67">
             <Shape><Polygon POINTS="402 2050 397 2008 1094 1998 1101 2040 1099 2055 402 2065"/></Shape>
-	    <String CONTENT=""
+	    <String CONTENT="lement par les mortelz estre aggressee"
                     HPOS="397"
                     VPOS="1998"
                     WIDTH="704"
@@ -698,7 +698,7 @@
                     WIDTH="704"
                     HEIGHT="68">
             <Shape><Polygon POINTS="402 2103 397 2058 1094 2048 1101 2093 1099 2106 402 2116"/></Shape>
-	    <String CONTENT=""
+	    <String CONTENT="et a grant peine par les Dieux cest adi“"
                     HPOS="397"
                     VPOS="2048"
                     WIDTH="704"
@@ -715,7 +715,7 @@
                     WIDTH="705"
                     HEIGHT="63">
             <Shape><Polygon POINTS="404 2153 399 2108 1096 2103 1104 2148 1101 2161 404 2166"/></Shape>
-	    <String CONTENT=""
+	    <String CONTENT="re par les creatures beneurees qui enla"
                     HPOS="399"
                     VPOS="2103"
                     WIDTH="705"
@@ -732,7 +732,7 @@
                     WIDTH="702"
                     HEIGHT="83">
             <Shape><Polygon POINTS="407 2206 402 2161 1096 2143 1104 2196 1101 2216 407 2226"/></Shape>
-	    <String CONTENT=""
+	    <String CONTENT="presence de dieu sont peult estre parfai"
                     HPOS="402"
                     VPOS="2143"
                     WIDTH="702"
@@ -749,7 +749,7 @@
                     WIDTH="702"
                     HEIGHT="65">
             <Shape><Polygon POINTS="407 2259 402 2211 1096 2204 1104 2251 1101 2262 407 2269"/></Shape>
-	    <String CONTENT=""
+	    <String CONTENT="ctement cognue. Dit aussi quelle sup"
                     HPOS="402"
                     VPOS="2204"
                     WIDTH="702"
@@ -766,7 +766,7 @@
                     WIDTH="702"
                     HEIGHT="83">
             <Shape><Polygon POINTS="407 2312 402 2264 1096 2246 1104 2302 1104 2309 407 2329"/></Shape>
-	    <String CONTENT=""
+	    <String CONTENT="pedite les temps et reuoque Affin quil"
                     HPOS="402"
                     VPOS="2246"
                     WIDTH="702"
@@ -783,7 +783,7 @@
                     WIDTH="697"
                     HEIGHT="66">
             <Shape><Polygon POINTS="409 2360 404 2317 1094 2309 1101 2352 1099 2367 409 2375"/></Shape>
-	    <String CONTENT=""
+	    <String CONTENT="apparoisse que tout temps a en elle cõ“"
                     HPOS="404"
                     VPOS="2309"
                     WIDTH="697"
@@ -800,7 +800,7 @@
                     WIDTH="704"
                     HEIGHT="75">
             <Shape><Polygon POINTS="407 2415 402 2367 1099 2352 1106 2407 1104 2420 407 2427"/></Shape>
-	    <String CONTENT=""
+	    <String CONTENT="mencement prins prent ⁊ prendra : Et"
                     HPOS="402"
                     VPOS="2352"
                     WIDTH="704"
@@ -817,7 +817,7 @@
                     WIDTH="712"
                     HEIGHT="81">
             <Shape><Polygon POINTS="404 2468 397 2417 1101 2407 1109 2458 1106 2470 404 2488"/></Shape>
-	    <String CONTENT=""
+	    <String CONTENT="finablement retourne a sa fin Et pour"
                     HPOS="397"
                     VPOS="2407"
                     WIDTH="712"
@@ -834,7 +834,7 @@
                     WIDTH="702"
                     HEIGHT="70">
             <Shape><Polygon POINTS="409 2520 404 2473 1099 2463 1106 2510 1104 2520 409 2533"/></Shape>
-	    <String CONTENT=""
+	    <String CONTENT="ce qͥl apparoisse soubz quel ordre le poe“"
                     HPOS="404"
                     VPOS="2463"
                     WIDTH="702"
@@ -851,7 +851,7 @@
                     WIDTH="707"
                     HEIGHT="66">
             <Shape><Polygon POINTS="412 2568 407 2523 1106 2515 1114 2561 1114 2573 412 2581"/></Shape>
-	    <String CONTENT=""
+	    <String CONTENT="te descripts le serpent qui tousiours Ra"
                     HPOS="407"
                     VPOS="2515"
                     WIDTH="707"
@@ -868,7 +868,7 @@
                     WIDTH="700"
                     HEIGHT="83">
             <Shape><Polygon POINTS="409 2623 404 2576 1096 2558 1104 2613 1101 2631 409 2641"/></Shape>
-	    <String CONTENT=""
+	    <String CONTENT="uerdist conuient par ce entendre le tẽpˢ"
                     HPOS="404"
                     VPOS="2558"
                     WIDTH="700"
@@ -895,7 +895,7 @@
                     WIDTH="186"
                     HEIGHT="68">
             <Shape><Polygon POINTS="636 125 628 75 807 67 814 118 814 128 636 135"/></Shape>
-	    <String CONTENT=""
+	    <String CONTENT="Boccace"
                     HPOS="628"
                     VPOS="67"
                     WIDTH="186"
@@ -912,7 +912,7 @@
                     WIDTH="531"
                     HEIGHT="73">
             <Shape><Polygon POINTS="1033 120 1031 62 1556 62 1562 113 1559 128 1033 135"/></Shape>
-	    <String CONTENT=""
+	    <String CONTENT="De la genealogie des dieux"
                     HPOS="1031"
                     VPOS="62"
                     WIDTH="531"
@@ -939,7 +939,7 @@
                     WIDTH="712"
                     HEIGHT="68">
             <Shape><Polygon POINTS="1187 221 1182 173 1886 165 1894 213 1894 226 1187 233"/></Shape>
-	    <String CONTENT=""
+	    <String CONTENT="qui quant a soy iamais en uiellesse ne"
                     HPOS="1182"
                     VPOS="165"
                     WIDTH="712"
@@ -956,7 +956,7 @@
                     WIDTH="709"
                     HEIGHT="68">
             <Shape><Polygon POINTS="1187 273 1182 228 1883 221 1891 266 1889 281 1187 289"/></Shape>
-	    <String CONTENT=""
+	    <String CONTENT="tend. Et Dist quil Deuore ⁊ renge sa"
                     HPOS="1182"
                     VPOS="221"
                     WIDTH="709"
@@ -973,7 +973,7 @@
                     WIDTH="707"
                     HEIGHT="63">
             <Shape><Polygon POINTS="1189 326 1184 281 1883 276 1891 321 1889 334 1189 339"/></Shape>
-	    <String CONTENT=""
+	    <String CONTENT="queue. Affin que par ce nous entendõs"
                     HPOS="1184"
                     VPOS="276"
                     WIDTH="707"
@@ -990,7 +990,7 @@
                     WIDTH="704"
                     HEIGHT="73">
             <Shape><Polygon POINTS="1187 379 1182 331 1878 319 1886 374 1883 387 1187 392"/></Shape>
-	    <String CONTENT=""
+	    <String CONTENT="le las et circuition du temps : Car tous"
                     HPOS="1182"
                     VPOS="319"
                     WIDTH="704"
@@ -1007,7 +1007,7 @@
                     WIDTH="707"
                     HEIGHT="78">
             <Shape><Polygon POINTS="1187 432 1182 387 1881 369 1889 422 1886 437 1187 447"/></Shape>
-	    <String CONTENT=""
+	    <String CONTENT="iours la fin dung an est le commence/"
                     HPOS="1182"
                     VPOS="369"
                     WIDTH="707"
@@ -1024,7 +1024,7 @@
                     WIDTH="709"
                     HEIGHT="66">
             <Shape><Polygon POINTS="1187 485 1182 439 1883 429 1891 475 1891 485 1187 495"/></Shape>
-	    <String CONTENT=""
+	    <String CONTENT="ment de lautre et ainsi sera tant que le"
                     HPOS="1182"
                     VPOS="429"
                     WIDTH="709"
@@ -1041,7 +1041,7 @@
                     WIDTH="705"
                     HEIGHT="68">
             <Shape><Polygon POINTS="1189 535 1184 490 1881 482 1889 527 1886 545 1189 550"/></Shape>
-	    <String CONTENT=""
+	    <String CONTENT="temps durera Du quel exemple a use."
                     HPOS="1184"
                     VPOS="482"
                     WIDTH="705"
@@ -1058,7 +1058,7 @@
                     WIDTH="707"
                     HEIGHT="70">
             <Shape><Polygon POINTS="1192 588 1187 537 1886 535 1894 578 1891 593 1192 605"/></Shape>
-	    <String CONTENT=""
+	    <String CONTENT="Pour ce que ce a este anciennement la"
                     HPOS="1187"
                     VPOS="535"
                     WIDTH="707"
@@ -1075,7 +1075,7 @@
                     WIDTH="710"
                     HEIGHT="78">
             <Shape><Polygon POINTS="1189 640 1184 590 1886 580 1894 630 1894 643 1189 658"/></Shape>
-	    <String CONTENT=""
+	    <String CONTENT="coustume au egiptiens De descripre lã"
                     HPOS="1184"
                     VPOS="580"
                     WIDTH="710"
@@ -1092,7 +1092,7 @@
                     WIDTH="682"
                     HEIGHT="65">
             <Shape><Polygon POINTS="1189 693 1184 640 1858 638 1866 686 1863 696 1189 703"/></Shape>
-	    <String CONTENT=""
+	    <String CONTENT="deuant que ilz receussent les lettres."
                     HPOS="1184"
                     VPOS="638"
                     WIDTH="682"
@@ -1109,7 +1109,7 @@
                     WIDTH="699"
                     HEIGHT="73">
             <Shape><Polygon POINTS="1194 741 1192 688 1886 688 1891 736 1889 751 1194 761"/></Shape>
-	    <String CONTENT=""
+	    <String CONTENT="Dit apres le poete que cela se fait tai /"
                     HPOS="1192"
                     VPOS="688"
                     WIDTH="699"
@@ -1126,7 +1126,7 @@
                     WIDTH="707"
                     HEIGHT="73">
             <Shape><Polygon POINTS="1189 796 1184 751 1883 743 1891 789 1889 801 1189 816"/></Shape>
-	    <String CONTENT=""
+	    <String CONTENT="siblement / pource que quant nous ny"
                     HPOS="1184"
                     VPOS="743"
                     WIDTH="707"
@@ -1143,7 +1143,7 @@
                     WIDTH="710"
                     HEIGHT="80">
             <Shape><Polygon POINTS="1189 849 1184 801 1886 789 1894 841 1891 854 1189 869"/></Shape>
-	    <String CONTENT=""
+	    <String CONTENT="pensons point le temps petit a petit sẽ"
                     HPOS="1184"
                     VPOS="789"
                     WIDTH="710"
@@ -1160,7 +1160,7 @@
                     WIDTH="715"
                     HEIGHT="70">
             <Shape><Polygon POINTS="1187 899 1179 854 1886 844 1894 889 1891 904 1187 914"/></Shape>
-	    <String CONTENT=""
+	    <String CONTENT="ua : Dit aussi que nature est a lentree"
                     HPOS="1179"
                     VPOS="844"
                     WIDTH="715"
@@ -1177,7 +1177,7 @@
                     WIDTH="712"
                     HEIGHT="73">
             <Shape><Polygon POINTS="1187 952 1182 904 1886 897 1894 942 1894 955 1187 970"/></Shape>
-	    <String CONTENT=""
+	    <String CONTENT="plaine De ames uollantes De toutes"
                     HPOS="1182"
                     VPOS="897"
                     WIDTH="712"
@@ -1194,7 +1194,7 @@
                     WIDTH="709"
                     HEIGHT="75">
             <Shape><Polygon POINTS="1187 1005 1182 957 1883 950 1891 997 1889 1010 1187 1025"/></Shape>
-	    <String CONTENT=""
+	    <String CONTENT="pars pource que continuellement elle"
                     HPOS="1182"
                     VPOS="950"
                     WIDTH="709"
@@ -1211,7 +1211,7 @@
                     WIDTH="707"
                     HEIGHT="71">
             <Shape><Polygon POINTS="1189 1058 1184 1010 1883 997 1891 1053 1889 1063 1189 1068"/></Shape>
-	    <String CONTENT=""
+	    <String CONTENT="donne ames a plussieurs creatures : A"
                     HPOS="1184"
                     VPOS="997"
                     WIDTH="707"
@@ -1228,7 +1228,7 @@
                     WIDTH="707"
                     HEIGHT="73">
             <Shape><Polygon POINTS="1187 1108 1182 1063 1881 1050 1889 1098 1886 1113 1187 1123"/></Shape>
-	    <String CONTENT=""
+	    <String CONTENT="ceste cause la descrit il estre Deuant leˢ"
                     HPOS="1182"
                     VPOS="1050"
                     WIDTH="707"
@@ -1245,7 +1245,7 @@
                     WIDTH="710"
                     HEIGHT="76">
             <Shape><Polygon POINTS="1189 1158 1184 1113 1886 1105 1894 1153 1891 1168 1189 1181"/></Shape>
-	    <String CONTENT=""
+	    <String CONTENT="poetes De eternite affin que nous entẽ"
                     HPOS="1184"
                     VPOS="1105"
                     WIDTH="710"
@@ -1262,7 +1262,7 @@
                     WIDTH="710"
                     HEIGHT="65">
             <Shape><Polygon POINTS="1189 1213 1184 1168 1886 1161 1894 1206 1891 1218 1189 1226"/></Shape>
-	    <String CONTENT=""
+	    <String CONTENT="dons que tout ce qui entre au geron de"
                     HPOS="1184"
                     VPOS="1161"
                     WIDTH="710"
@@ -1279,7 +1279,7 @@
                     WIDTH="714"
                     HEIGHT="63">
             <Shape><Polygon POINTS="1187 1266 1182 1218 1889 1213 1896 1261 1894 1271 1187 1276"/></Shape>
-	    <String CONTENT=""
+	    <String CONTENT="ternite y entre par nature qui accroit ⁊"
                     HPOS="1182"
                     VPOS="1213"
                     WIDTH="714"
@@ -1296,7 +1296,7 @@
                     WIDTH="712"
                     HEIGHT="68">
             <Shape><Polygon POINTS="1189 1319 1184 1269 1889 1264 1896 1309 1894 1322 1189 1332"/></Shape>
-	    <String CONTENT=""
+	    <String CONTENT="diminue les choseˢ peu ou moult durer"
                     HPOS="1184"
                     VPOS="1264"
                     WIDTH="712"
@@ -1313,7 +1313,7 @@
                     WIDTH="709"
                     HEIGHT="68">
             <Shape><Polygon POINTS="1192 1372 1187 1324 1889 1314 1896 1362 1896 1374 1192 1382"/></Shape>
-	    <String CONTENT=""
+	    <String CONTENT="Et se doibt ce entendre de nature natu"
                     HPOS="1187"
                     VPOS="1314"
                     WIDTH="709"
@@ -1330,7 +1330,7 @@
                     WIDTH="710"
                     HEIGHT="63">
             <Shape><Polygon POINTS="1189 1420 1184 1374 1886 1369 1894 1415 1894 1425 1189 1432"/></Shape>
-	    <String CONTENT=""
+	    <String CONTENT="ree. Car ce que nature naturãte dedẽs"
                     HPOS="1184"
                     VPOS="1369"
                     WIDTH="710"
@@ -1347,7 +1347,7 @@
                     WIDTH="705"
                     HEIGHT="78">
             <Shape><Polygon POINTS="1189 1475 1184 1427 1881 1412 1889 1467 1886 1490 1189 1490"/></Shape>
-	    <String CONTENT=""
+	    <String CONTENT="met ne fortist iamais. Par le uiellar qͥ"
                     HPOS="1184"
                     VPOS="1412"
                     WIDTH="705"
@@ -1364,7 +1364,7 @@
                     WIDTH="707"
                     HEIGHT="66">
             <Shape><Polygon POINTS="1189 1525 1184 1480 1883 1472 1891 1518 1889 1530 1189 1538"/></Shape>
-	    <String CONTENT=""
+	    <String CONTENT="en la fosse diuise les estoiles par nom“"
                     HPOS="1184"
                     VPOS="1472"
                     WIDTH="707"
@@ -1381,7 +1381,7 @@
                     WIDTH="707"
                     HEIGHT="68">
             <Shape><Polygon POINTS="1189 1578 1184 1533 1883 1525 1891 1570 1889 1583 1189 1593"/></Shape>
-	    <String CONTENT=""
+	    <String CONTENT="bres ie croy que on Doibt entendre no“"
                     HPOS="1184"
                     VPOS="1525"
                     WIDTH="707"
@@ -1398,7 +1398,7 @@
                     WIDTH="707"
                     HEIGHT="83">
             <Shape><Polygon POINTS="1194 1628 1189 1583 1889 1568 1896 1621 1894 1636 1194 1651"/></Shape>
-	    <String CONTENT=""
+	    <String CONTENT="stre uray Dieu non point pource que il"
                     HPOS="1189"
                     VPOS="1568"
                     WIDTH="707"
@@ -1415,7 +1415,7 @@
                     WIDTH="707"
                     HEIGHT="68">
             <Shape><Polygon POINTS="1197 1681 1192 1636 1891 1631 1899 1676 1899 1686 1197 1699"/></Shape>
-	    <String CONTENT=""
+	    <String CONTENT="soit ueil Car en eternite ne chiet aucu"
                     HPOS="1192"
                     VPOS="1631"
                     WIDTH="707"
@@ -1432,7 +1432,7 @@
                     WIDTH="707"
                     HEIGHT="65">
             <Shape><Polygon POINTS="1194 1734 1189 1686 1889 1681 1896 1729 1894 1741 1194 1746"/></Shape>
-	    <String CONTENT=""
+	    <String CONTENT="ne description daage Mais il parle a la"
                     HPOS="1189"
                     VPOS="1681"
                     WIDTH="707"
@@ -1449,7 +1449,7 @@
                     WIDTH="704"
                     HEIGHT="68">
             <Shape><Polygon POINTS="1197 1786 1192 1739 1889 1734 1896 1781 1894 1792 1197 1802"/></Shape>
-	    <String CONTENT=""
+	    <String CONTENT="coustume Des mortelz qui dient et re“"
                     HPOS="1192"
                     VPOS="1734"
                     WIDTH="704"
@@ -1466,7 +1466,7 @@
                     WIDTH="707"
                     HEIGHT="73">
             <Shape><Polygon POINTS="1194 1837 1189 1789 1889 1784 1896 1832 1894 1844 1194 1857"/></Shape>
-	    <String CONTENT=""
+	    <String CONTENT="putent ceulx qui sont De longue uie e /"
                     HPOS="1189"
                     VPOS="1784"
                     WIDTH="707"
@@ -1483,7 +1483,7 @@
                     WIDTH="699"
                     HEIGHT="80">
             <Shape><Polygon POINTS="1197 1890 1192 1844 1883 1832 1891 1882 1889 1895 1197 1912"/></Shape>
-	    <String CONTENT=""
+	    <String CONTENT="stre ĩmortelz. ⁊ par ce qͥl diuise leˢ"
                     HPOS="1192"
                     VPOS="1832"
                     WIDTH="699"
@@ -1500,7 +1500,7 @@
                     WIDTH="710"
                     HEIGHT="63">
             <Shape><Polygon POINTS="1194 1940 1189 1897 1891 1892 1899 1935 1896 1947 1194 1955"/></Shape>
-	    <String CONTENT=""
+	    <String CONTENT="estoiles par nombres Est donne a en“"
                     HPOS="1189"
                     VPOS="1892"
                     WIDTH="710"
@@ -1517,7 +1517,7 @@
                     WIDTH="707"
                     HEIGHT="68">
             <Shape><Polygon POINTS="1197 1993 1192 1945 1891 1940 1899 1988 1896 2000 1197 2008"/></Shape>
-	    <String CONTENT=""
+	    <String CONTENT="tendre que les temps nous sont distin"
                     HPOS="1192"
                     VPOS="1940"
                     WIDTH="707"
@@ -1534,7 +1534,7 @@
                     WIDTH="700"
                     HEIGHT="70">
             <Shape><Polygon POINTS="1197 2043 1194 1995 1891 1993 1894 2043 1894 2055 1197 2063"/></Shape>
-	    <String CONTENT=""
+	    <String CONTENT="guez et ordonnez par son ordonnace /"
                     HPOS="1194"
                     VPOS="1993"
                     WIDTH="700"
@@ -1551,7 +1551,7 @@
                     WIDTH="702"
                     HEIGHT="71">
             <Shape><Polygon POINTS="1202 2098 1197 2050 1891 2045 1899 2093 1896 2103 1202 2116"/></Shape>
-	    <String CONTENT=""
+	    <String CONTENT="selon certain mouuement Des estoil“"
                     HPOS="1197"
                     VPOS="2045"
                     WIDTH="702"
@@ -1568,7 +1568,7 @@
                     WIDTH="702"
                     HEIGHT="73">
             <Shape><Polygon POINTS="1197 2148 1192 2103 1886 2088 1894 2143 1891 2156 1197 2161"/></Shape>
-	    <String CONTENT=""
+	    <String CONTENT="les et corps celestes de luy constituez /"
                     HPOS="1192"
                     VPOS="2088"
                     WIDTH="702"
@@ -1585,7 +1585,7 @@
                     WIDTH="695"
                     HEIGHT="76">
             <Shape><Polygon POINTS="1199 2201 1194 2153 1881 2138 1889 2196 1886 2209 1199 2214"/></Shape>
-	    <String CONTENT=""
+	    <String CONTENT="Affin que par la circuition du soleil noꝰ"
                     HPOS="1194"
                     VPOS="2138"
                     WIDTH="695"
@@ -1602,7 +1602,7 @@
                     WIDTH="705"
                     HEIGHT="66">
             <Shape><Polygon POINTS="1199 2254 1194 2206 1891 2201 1899 2246 1896 2259 1199 2267"/></Shape>
-	    <String CONTENT=""
+	    <String CONTENT="auons lan par la reuolution de la lune"
                     HPOS="1194"
                     VPOS="2201"
                     WIDTH="705"
@@ -1619,7 +1619,7 @@
                     WIDTH="707"
                     HEIGHT="66">
             <Shape><Polygon POINTS="1197 2304 1192 2256 1891 2251 1899 2299 1896 2312 1197 2317"/></Shape>
-	    <String CONTENT=""
+	    <String CONTENT="le mois ⁊ par la Reuolution entiere De"
                     HPOS="1192"
                     VPOS="2251"
                     WIDTH="707"
@@ -1636,7 +1636,7 @@
                     WIDTH="702"
                     HEIGHT="63">
             <Shape><Polygon POINTS="1199 2354 1199 2307 1901 2307 1901 2354 1901 2370 1199 2370"/></Shape>
-	    <String CONTENT=""
+	    <String CONTENT="la huitiesme spere le iour. Mais quant"
                     HPOS="1199"
                     VPOS="2307"
                     WIDTH="702"
@@ -1653,7 +1653,7 @@
                     WIDTH="700"
                     HEIGHT="60">
             <Shape><Polygon POINTS="1199 2407 1199 2360 1899 2360 1899 2407 1899 2420 1199 2420"/></Shape>
-	    <String CONTENT=""
+	    <String CONTENT="est Des cieulx lesquelz dit icy estre / on"
                     HPOS="1199"
                     VPOS="2360"
                     WIDTH="700"
@@ -1670,7 +1670,7 @@
                     WIDTH="702"
                     HEIGHT="66">
             <Shape><Polygon POINTS="1199 2460 1199 2412 1899 2412 1899 2460 1896 2478 1197 2473"/></Shape>
-	    <String CONTENT=""
+	    <String CONTENT="en descripra assez amplement de soubz"
                     HPOS="1197"
                     VPOS="2412"
                     WIDTH="702"
@@ -1687,7 +1687,7 @@
                     WIDTH="642"
                     HEIGHT="75">
             <Shape><Polygon POINTS="1199 2515 1194 2468 1828 2458 1836 2508 1833 2525 1199 2533"/></Shape>
-	    <String CONTENT=""
+	    <String CONTENT="la on parlera des cheuaux du soleil"
                     HPOS="1194"
                     VPOS="2458"
                     WIDTH="642"
