@@ -20,5 +20,5 @@ jobs:
         pip install htr-united-metadata-generator
     - name: Run Report
       run: |
-        humGenerator --group Mazarine_Inc59/training_corpus/*.xml BnF_Res_J-845/training_corpus/**/*.xml --github-envs
+        humGenerator --group BnF_Res_J-845/ground_truth/**/xml_alto/*.xml Mazarine_Inc59/ground_truth/**/xml_alto/*.xml --github-envs
         cat envs.txt >> $GITHUB_ENV
