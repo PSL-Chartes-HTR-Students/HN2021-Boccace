@@ -2,6 +2,7 @@
 
 This repository hosts all the documents, including scans of the sources, transcriptions, bibliographical references and introduction that serve the team Boccace for the validation of the course "Bonnes pratiques du developpement collaboratif : initiation à Git" (prof. Thibault Clérice), of the first semester - Master Humanités Numériques ENC-PSL 2021-2022. At the same time the project is indirectly linked to  biannual project "Per un'edizione digitale della Genealogia deorum gentilium" di Boccaccio" (dir. F. Duval, M. Maulu). Financed in 2021, this project foresees to put on line in XML format the unpublished translation in Middle French entitled "De la genealogie des dieux".
 
+
  # **Getting familiar with the database**
 
 The work: Treatise on mythology. Its first version composed between 1347 and 1360 at the request of Hugues IV de Lusignan, then revised and enlarged after his death in 1359. Its textual tradition is particular as in 1371 Boccaccio allowed a friend to make a copy of an autograph MS, now lost, of the Genealogia, and from that first apograph other copies were made. The text of the lost autograph is now called the Vulgate text[Wilkins_1919,65] which was widely diffused.
@@ -12,6 +13,28 @@ The database for the project Boccace has been built with eScriptorium (http://tr
      
 The editio princeps contains, first, the Table of Rubrics; second, the Genealogia itself; third, the Alphabetical Index by Domenico Bandini; fourth, the Versus of Domenico di Silvestro. The printer did not undertake to reproduce the genealogical trees which stood presumably in the MS which served him as copy.The edition of 1472 is  the best printed representative of the Vulgate text of the Genealogia, and should be cited, in preference to the edition of 1532, for all portions of the Genealogia, except those printed by Hecker [Hecker_1902] from the autograph, and for any citation in which the reading of the Vulgate text as against that of the autograph is desired (More specifically, Hecker prints from the second autograph the Dedicatory Letter (but not the single chapter of the general Proem, nor the Proem of Book I), the Proems of Books II-XIII, and Books XIV and XV entire).
      
+## Folder names
+
+| Folder Name | Description |
+| ----------- |  ---- |
+| ground_truth | Contains transcriptions which have been checked or done manually |
+| ground_truth/train | Used for training models |
+| ground_truth/test | Use for evaluation |
+| prediction_samples | Contrains prediction samples (Not ground truth !) |
+
+
+train, test and prediction_samples contain:
+
+| Folder Name | Description |
+| ----------- |  ---- |
+| xml_alto | Contains XML Alto documents |
+| pdf | Contains a PDF documents |
+| txt | Contains plain text documents|
+
+Ground truth data for training and testing can be found at `BnF_Res_J-845/ground_truth/**/xml_alto/*.xml` and `Mazarine_Inc59/ground_truth/**/xml_alto/*.xml`.
+
+
+
 # **Brief explaination of the transcription norms**
      
 Both documents present for the most part coherent and regular writting which makes it easier to segment the text and train a machine to automatically transcribe the content.We decided to begin the transcription of both works (approx. 25 pages for each), producing segmentation and trascription models in order to facilitate the task.

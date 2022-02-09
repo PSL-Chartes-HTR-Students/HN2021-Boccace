@@ -17,4 +17,4 @@ jobs:
         pip install chocomufin==0.0.4
     - name: Run ChocoMufin
       run: |
-        chocomufin control table.csv **/*.xml 
+        chocomufin control table.csv BnF_Res_J-845/ground_truth/**/xml_alto/*.xml Mazarine_Inc59/ground_truth/**/xml_alto/*.xml
