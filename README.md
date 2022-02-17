@@ -1,5 +1,7 @@
 # **Presenting the git-project-Boccace by the Boccace team**
 
+[![DOI](https://zenodo.org/badge/423510743.svg)](https://zenodo.org/badge/latestdoi/423510743)
+
 This repository hosts all the documents, including scans of the sources, transcriptions, bibliographical references and introduction that serve the team Boccace for the validation of the course "Bonnes pratiques du developpement collaboratif : initiation à Git" (prof. Thibault Clérice), of the first semester - Master Humanités Numériques ENC-PSL 2021-2022. At the same time the project is indirectly linked to  biannual project "Per un'edizione digitale della Genealogia deorum gentilium" di Boccaccio" (dir. F. Duval, M. Maulu). Financed in 2021, this project foresees to put on line in XML format the unpublished translation in Middle French entitled "De la genealogie des dieux".
 
 
