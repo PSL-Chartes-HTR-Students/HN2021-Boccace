@@ -8,13 +8,16 @@ message: >-
   metadata from this file.
 type: dataset
 authors:
-  - given-names: Malamatenia Vlachou Efstathiou
+  - given-names: Malamatenia
+    family-names: Vlachou Efstathiou
     email: matenia03@gmail.com
-    affiliation: école nationale des chartes
-  - given-names: Noé Leroy
+    affiliation: École nationale des chartes
+  - given-names: Noé
+    family-names: Leroy
     email: noe.leroy@chartes.psl.eu
-    affiliation: ecole nationale des chartes
-  - given-names: Marco Maulu
+    affiliation: École nationale des chartes
+  - given-names: Marco
+    family-names: Maulu
     affiliation: Università degli Studi di Sassari - Uniss
     email: mmaulu@uniss.it
 version: 1.0
